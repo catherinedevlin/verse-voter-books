@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Acts](../acts) 28
+title: [Acts](/new-testament/acts) 28
 ---
 
-# [Acts](../acts) 28
+# [Acts](/new-testament/acts) 28
 
 [New Testament](/new-testament)
 
 
-[prev](acts-27.html)
+[prev](/new-testament/acts/acts-27.html)
 
 1 _When we were safe on land, we found that the island we were on was called Malta._
 

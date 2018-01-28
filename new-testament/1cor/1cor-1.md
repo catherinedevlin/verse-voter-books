@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [1Cor](../1cor) 1
+title: [1Cor](/new-testament/1cor) 1
 ---
 
-# [1Cor](../1cor) 1
+# [1Cor](/new-testament/1cor) 1
 
 [New Testament](/new-testament)
 
 
-[next](1cor-2.html)
+[next](/new-testament/1cor/1cor-2.html)
 
 1 _I am Paul. God called me to be an apostle of Jesus Christ. He did this because he wanted to._
 

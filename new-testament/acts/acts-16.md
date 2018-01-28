@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 16
+title: [Acts](/new-testament/acts) 16
 ---
 
-# [Acts](../acts) 16
+# [Acts](/new-testament/acts) 16
 
 [New Testament](/new-testament)
 
 
-[prev](acts-15.html)
+[prev](/new-testament/acts/acts-15.html)
 
 
-[next](acts-17.html)
+[next](/new-testament/acts/acts-17.html)
 
 1 _Then he came to Derbe and Lystra. A disciple named Timothy was there. His mother was a Jew, a believer, and his father was a Greek._
 

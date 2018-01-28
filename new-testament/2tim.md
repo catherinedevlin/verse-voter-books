@@ -9,12 +9,12 @@ title: 2Tim
 [New Testament](/new-testament)
 
 
-[prev: 1Tim](../1tim)
+[prev: 1Tim](/new-testament/1tim)
 
 
-[next: Titus](../titus)
+[next: Titus](/new-testament/titus)
 
-- [1](2tim-1.html)
-- [2](2tim-2.html)
-- [3](2tim-3.html)
-- [4](2tim-4.html)
+- [1](/new-testament/2tim/2tim-1.html)
+- [2](/new-testament/2tim/2tim-2.html)
+- [3](/new-testament/2tim/2tim-3.html)
+- [4](/new-testament/2tim/2tim-4.html)

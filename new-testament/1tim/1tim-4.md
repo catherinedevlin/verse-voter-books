@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Tim](../1tim) 4
+title: [1Tim](/new-testament/1tim) 4
 ---
 
-# [1Tim](../1tim) 4
+# [1Tim](/new-testament/1tim) 4
 
 [New Testament](/new-testament)
 
 
-[prev](1tim-3.html)
+[prev](/new-testament/1tim/1tim-3.html)
 
 
-[next](1tim-5.html)
+[next](/new-testament/1tim/1tim-5.html)
 
 1 _The Spirit of God says very plainly that in later times some people will stop believing.  They will listen to other spirits that fool them, and to the teaching of bad spirits._
 

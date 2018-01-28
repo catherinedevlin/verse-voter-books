@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Col](../col) 4
+title: [Col](/new-testament/col) 4
 ---
 
-# [Col](../col) 4
+# [Col](/new-testament/col) 4
 
 [New Testament](/new-testament)
 
 
-[prev](col-3.html)
+[prev](/new-testament/col/col-3.html)
 
 1 _You who are a boss, do what is right to your servants. You know that you also have a Master in heaven._
 

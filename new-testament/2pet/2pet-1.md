@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [2Pet](../2pet) 1
+title: [2Pet](/new-testament/2pet) 1
 ---
 
-# [2Pet](../2pet) 1
+# [2Pet](/new-testament/2pet) 1
 
 [New Testament](/new-testament)
 
 
-[next](2pet-2.html)
+[next](/new-testament/2pet/2pet-2.html)
 
 1 _I am Simon Peter. I am a servant and an apostle of Jesus Christ. I send greetings to you who have believed as we have. Believing is worth just as much to you as it is to us. This is because our God and Saviour, Jesus Christ, is right and good._
 

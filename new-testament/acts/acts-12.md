@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 12
+title: [Acts](/new-testament/acts) 12
 ---
 
-# [Acts](../acts) 12
+# [Acts](/new-testament/acts) 12
 
 [New Testament](/new-testament)
 
 
-[prev](acts-11.html)
+[prev](/new-testament/acts/acts-11.html)
 
 
-[next](acts-13.html)
+[next](/new-testament/acts/acts-13.html)
 
 1 _At that time Herod the king caught some of the church people and troubled them._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 19
+title: [Rev](/new-testament/rev) 19
 ---
 
-# [Rev](../rev) 19
+# [Rev](/new-testament/rev) 19
 
 [New Testament](/new-testament)
 
 
-[prev](rev-18.html)
+[prev](/new-testament/rev/rev-18.html)
 
 
-[next](rev-20.html)
+[next](/new-testament/rev/rev-20.html)
 
 1 _After this I heard a loud sound in heaven. It sounded like many people calling. They said,  Praise our God! He saves people. He is great and power belongs to him._
 

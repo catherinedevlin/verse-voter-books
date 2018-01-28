@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Eph](../eph) 3
+title: [Eph](/new-testament/eph) 3
 ---
 
-# [Eph](../eph) 3
+# [Eph](/new-testament/eph) 3
 
 [New Testament](/new-testament)
 
 
-[prev](eph-2.html)
+[prev](/new-testament/eph/eph-2.html)
 
 
-[next](eph-4.html)
+[next](/new-testament/eph/eph-4.html)
 
 1 _That is why I, Paul, am a prisoner who belongs to Jesus Christ. It is for the sake of you people who are not Jews._
 

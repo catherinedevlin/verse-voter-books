@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 13
+title: [Acts](/new-testament/acts) 13
 ---
 
-# [Acts](../acts) 13
+# [Acts](/new-testament/acts) 13
 
 [New Testament](/new-testament)
 
 
-[prev](acts-12.html)
+[prev](/new-testament/acts/acts-12.html)
 
 
-[next](acts-14.html)
+[next](/new-testament/acts/acts-14.html)
 
 1 _In the church at Antioch there were prophets and teachers. They were Barnabas, Simeon Niger, Lucius from Cyrene, Manaen who grew up with Herod the ruler, and Saul._
 

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Eph](../eph) 6
+title: [Eph](/new-testament/eph) 6
 ---
 
-# [Eph](../eph) 6
+# [Eph](/new-testament/eph) 6
 
 [New Testament](/new-testament)
 
 
-[prev](eph-5.html)
+[prev](/new-testament/eph/eph-5.html)
 
 1 _Children, obey your parents as the Lord wants you to. This is the right thing to do. 2,_
 

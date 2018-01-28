@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [2Cor](../2cor) 9
+title: [2Cor](/new-testament/2cor) 9
 ---
 
-# [2Cor](../2cor) 9
+# [2Cor](/new-testament/2cor) 9
 
 [New Testament](/new-testament)
 
 
-[prev](2cor-8.html)
+[prev](/new-testament/2cor/2cor-8.html)
 
 
-[next](2cor-10.html)
+[next](/new-testament/2cor/2cor-10.html)
 
 1 _Of course, I really do not need to write to you about the money to be given to Gods people._
 

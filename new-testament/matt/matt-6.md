@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 6
+title: [Matt](/new-testament/matt) 6
 ---
 
-# [Matt](../matt) 6
+# [Matt](/new-testament/matt) 6
 
 [New Testament](/new-testament)
 
 
-[prev](matt-5.html)
+[prev](/new-testament/matt/matt-5.html)
 
 
-[next](matt-7.html)
+[next](/new-testament/matt/matt-7.html)
 
 1 _Do not do good things so that people will see you do them. If you do, you will get no reward from your Father in heaven._
 

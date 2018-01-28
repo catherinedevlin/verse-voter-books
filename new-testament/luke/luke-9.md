@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 9
+title: [Luke](/new-testament/luke) 9
 ---
 
-# [Luke](../luke) 9
+# [Luke](/new-testament/luke) 9
 
 [New Testament](/new-testament)
 
 
-[prev](luke-8.html)
+[prev](/new-testament/luke/luke-8.html)
 
 
-[next](luke-10.html)
+[next](/new-testament/luke/luke-10.html)
 
 1 _Jesus called his twelve disciples together. He gave them power over all the bad spirits,  and power to heal sick people._
 

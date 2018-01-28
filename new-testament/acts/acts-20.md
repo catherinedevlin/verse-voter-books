@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 20
+title: [Acts](/new-testament/acts) 20
 ---
 
-# [Acts](../acts) 20
+# [Acts](/new-testament/acts) 20
 
 [New Testament](/new-testament)
 
 
-[prev](acts-19.html)
+[prev](/new-testament/acts/acts-19.html)
 
 
-[next](acts-21.html)
+[next](/new-testament/acts/acts-21.html)
 
 1 _When everything was quiet, Paul called the disciples. He talked to them so they would not be afraid. Then he said goodbye and left. He went to Macedonia._
 

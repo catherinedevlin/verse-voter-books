@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 23
+title: [Acts](/new-testament/acts) 23
 ---
 
-# [Acts](../acts) 23
+# [Acts](/new-testament/acts) 23
 
 [New Testament](/new-testament)
 
 
-[prev](acts-22.html)
+[prev](/new-testament/acts/acts-22.html)
 
 
-[next](acts-24.html)
+[next](/new-testament/acts/acts-24.html)
 
 1 _Paul looked at the members of the court and said, My brothers, I have done what I thought God wanted me to do, right up to this day._
 

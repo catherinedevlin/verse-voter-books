@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Heb](../heb) 11
+title: [Heb](/new-testament/heb) 11
 ---
 
-# [Heb](../heb) 11
+# [Heb](/new-testament/heb) 11
 
 [New Testament](/new-testament)
 
 
-[prev](heb-10.html)
+[prev](/new-testament/heb/heb-10.html)
 
 
-[next](heb-12.html)
+[next](/new-testament/heb/heb-12.html)
 
 1 _If people believe God, then they know they have the things they hope to get. It is the proof of things we do not see._
 

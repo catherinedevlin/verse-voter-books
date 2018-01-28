@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 2
+title: [Acts](/new-testament/acts) 2
 ---
 
-# [Acts](../acts) 2
+# [Acts](/new-testament/acts) 2
 
 [New Testament](/new-testament)
 
 
-[prev](acts-1.html)
+[prev](/new-testament/acts/acts-1.html)
 
 
-[next](acts-3.html)
+[next](/new-testament/acts/acts-3.html)
 
 1 _On the day of Pentecost these people were all in one place._
 

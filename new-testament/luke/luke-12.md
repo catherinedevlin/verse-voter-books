@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 12
+title: [Luke](/new-testament/luke) 12
 ---
 
-# [Luke](../luke) 12
+# [Luke](/new-testament/luke) 12
 
 [New Testament](/new-testament)
 
 
-[prev](luke-11.html)
+[prev](/new-testament/luke/luke-11.html)
 
 
-[next](luke-13.html)
+[next](/new-testament/luke/luke-13.html)
 
 1 _Many thousands of people had gathered. They stepped on each other. Jesus began to talk to the disciples. He said, Take care. Do not let the yeast of the Pharisees spoil you. They are not true to themselves._
 

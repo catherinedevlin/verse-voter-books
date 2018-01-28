@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Pet](../1pet) 4
+title: [1Pet](/new-testament/1pet) 4
 ---
 
-# [1Pet](../1pet) 4
+# [1Pet](/new-testament/1pet) 4
 
 [New Testament](/new-testament)
 
 
-[prev](1pet-3.html)
+[prev](/new-testament/1pet/1pet-3.html)
 
 
-[next](1pet-5.html)
+[next](/new-testament/1pet/1pet-5.html)
 
 1 _Christ suffered in his body. You also must be ready to have the same trouble happen to you. When a man has suffered in his body, he has stopped doing wrong things._
 

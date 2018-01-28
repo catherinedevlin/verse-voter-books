@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Eph](../eph) 2
+title: [Eph](/new-testament/eph) 2
 ---
 
-# [Eph](../eph) 2
+# [Eph](/new-testament/eph) 2
 
 [New Testament](/new-testament)
 
 
-[prev](eph-1.html)
+[prev](/new-testament/eph/eph-1.html)
 
 
-[next](eph-3.html)
+[next](/new-testament/eph/eph-3.html)
 
 1 _There was a time when you were dead. That was because of the bad and the wrong things you did._
 

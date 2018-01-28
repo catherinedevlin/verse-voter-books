@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 11
+title: [Acts](/new-testament/acts) 11
 ---
 
-# [Acts](../acts) 11
+# [Acts](/new-testament/acts) 11
 
 [New Testament](/new-testament)
 
 
-[prev](acts-10.html)
+[prev](/new-testament/acts/acts-10.html)
 
 
-[next](acts-12.html)
+[next](/new-testament/acts/acts-12.html)
 
 1 _The apostles and other Christian brothers were in Judea. They heard that some people who were not Jews had also believed Gods message._
 

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Rom](../rom) 16
+title: [Rom](/new-testament/rom) 16
 ---
 
-# [Rom](../rom) 16
+# [Rom](/new-testament/rom) 16
 
 [New Testament](/new-testament)
 
 
-[prev](rom-15.html)
+[prev](/new-testament/rom/rom-15.html)
 
 1 _I want to tell you good things about our sister Phoebe. She helps in the church in Cenchrea._
 

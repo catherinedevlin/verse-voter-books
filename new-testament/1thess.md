@@ -9,13 +9,13 @@ title: 1Thess
 [New Testament](/new-testament)
 
 
-[prev: Col](../col)
+[prev: Col](/new-testament/col)
 
 
-[next: 2Thess](../2thess)
+[next: 2Thess](/new-testament/2thess)
 
-- [1](1thess-1.html)
-- [2](1thess-2.html)
-- [3](1thess-3.html)
-- [4](1thess-4.html)
-- [5](1thess-5.html)
+- [1](/new-testament/1thess/1thess-1.html)
+- [2](/new-testament/1thess/1thess-2.html)
+- [3](/new-testament/1thess/1thess-3.html)
+- [4](/new-testament/1thess/1thess-4.html)
+- [5](/new-testament/1thess/1thess-5.html)

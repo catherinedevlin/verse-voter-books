@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 14
+title: [John](/new-testament/john) 14
 ---
 
-# [John](../john) 14
+# [John](/new-testament/john) 14
 
 [New Testament](/new-testament)
 
 
-[prev](john-13.html)
+[prev](/new-testament/john/john-13.html)
 
 
-[next](john-15.html)
+[next](/new-testament/john/john-15.html)
 
 1 _Jesus said, Do not let anything trouble your heart. You believe in God and you must believe in me also._
 

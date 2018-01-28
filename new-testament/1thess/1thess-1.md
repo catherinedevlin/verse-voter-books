@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [1Thess](../1thess) 1
+title: [1Thess](/new-testament/1thess) 1
 ---
 
-# [1Thess](../1thess) 1
+# [1Thess](/new-testament/1thess) 1
 
 [New Testament](/new-testament)
 
 
-[next](1thess-2.html)
+[next](/new-testament/1thess/1thess-2.html)
 
 1 _Paul, Silvanus, and Timothy, send greetings to the church people in the city of Thessalonica. The people of this church belong to God the Father and the Lord Jesus Christ. May the kindness of God bless you and give you peace. for all of you, and we always talk to him about you._
 

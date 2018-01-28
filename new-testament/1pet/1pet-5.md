@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [1Pet](../1pet) 5
+title: [1Pet](/new-testament/1pet) 5
 ---
 
-# [1Pet](../1pet) 5
+# [1Pet](/new-testament/1pet) 5
 
 [New Testament](/new-testament)
 
 
-[prev](1pet-4.html)
+[prev](/new-testament/1pet/1pet-4.html)
 
 1 _So I am talking to the leaders among you. I am also a leader. I saw the sufferings of Christ. And I will have some part of his greatness when he comes again._
 

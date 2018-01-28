@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 24
+title: [Acts](/new-testament/acts) 24
 ---
 
-# [Acts](../acts) 24
+# [Acts](/new-testament/acts) 24
 
 [New Testament](/new-testament)
 
 
-[prev](acts-23.html)
+[prev](/new-testament/acts/acts-23.html)
 
 
-[next](acts-25.html)
+[next](/new-testament/acts/acts-25.html)
 
 1 _Five days later, Ananias the high priest came from Jerusalem. He brought with him some of the leaders and a lawyer named Tertullus. They told the ruler their complaint against Paul._
 

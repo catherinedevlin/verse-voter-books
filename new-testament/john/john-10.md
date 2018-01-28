@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 10
+title: [John](/new-testament/john) 10
 ---
 
-# [John](../john) 10
+# [John](/new-testament/john) 10
 
 [New Testament](/new-testament)
 
 
-[prev](john-9.html)
+[prev](/new-testament/john/john-9.html)
 
 
-[next](john-11.html)
+[next](/new-testament/john/john-11.html)
 
 1 _Then Jesus went on to say, I tell you the truth. A person must get to the sheep through the door. Anyone who climbs over the wall to get in is a bad man and steals things. He has come to steal the sheep._
 

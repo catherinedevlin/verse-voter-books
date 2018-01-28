@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Tim](../1tim) 2
+title: [1Tim](/new-testament/1tim) 2
 ---
 
-# [1Tim](../1tim) 2
+# [1Tim](/new-testament/1tim) 2
 
 [New Testament](/new-testament)
 
 
-[prev](1tim-1.html)
+[prev](/new-testament/1tim/1tim-1.html)
 
 
-[next](1tim-3.html)
+[next](/new-testament/1tim/1tim-3.html)
 
 1 _First of all, I want Gods people to do this. They must talk to God for all the people. They must ask God to help them. They must ask God to give them what they need. They must thank God for all that he gives them._
 

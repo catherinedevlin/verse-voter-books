@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [2Tim](../2tim) 4
+title: [2Tim](/new-testament/2tim) 4
 ---
 
-# [2Tim](../2tim) 4
+# [2Tim](/new-testament/2tim) 4
 
 [New Testament](/new-testament)
 
 
-[prev](2tim-3.html)
+[prev](/new-testament/2tim/2tim-3.html)
 
 1 _I say this before God and the Lord Jesus Christ, who will judge people who are living and people who are dead. I say this to you because he will come back and rule over all._
 

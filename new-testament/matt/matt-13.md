@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 13
+title: [Matt](/new-testament/matt) 13
 ---
 
-# [Matt](../matt) 13
+# [Matt](/new-testament/matt) 13
 
 [New Testament](/new-testament)
 
 
-[prev](matt-12.html)
+[prev](/new-testament/matt/matt-12.html)
 
 
-[next](matt-14.html)
+[next](/new-testament/matt/matt-14.html)
 
 1 _That day Jesus left the house and sat down by the sea side._
 

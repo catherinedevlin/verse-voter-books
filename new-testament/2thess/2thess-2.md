@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [2Thess](../2thess) 2
+title: [2Thess](/new-testament/2thess) 2
 ---
 
-# [2Thess](../2thess) 2
+# [2Thess](/new-testament/2thess) 2
 
 [New Testament](/new-testament)
 
 
-[prev](2thess-1.html)
+[prev](/new-testament/2thess/2thess-1.html)
 
 
-[next](2thess-3.html)
+[next](/new-testament/2thess/2thess-3.html)
 
 1 _My brothers, we want to talk to you about the time when our Lord Jesus Christ comes again and we are taken to meet him._
 

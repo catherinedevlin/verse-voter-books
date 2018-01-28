@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 18
+title: [Matt](/new-testament/matt) 18
 ---
 
-# [Matt](../matt) 18
+# [Matt](/new-testament/matt) 18
 
 [New Testament](/new-testament)
 
 
-[prev](matt-17.html)
+[prev](/new-testament/matt/matt-17.html)
 
 
-[next](matt-19.html)
+[next](/new-testament/matt/matt-19.html)
 
 1 _The disciples came to Jesus at that time. They said, Who is the greatest in the kingdom of heaven?_
 

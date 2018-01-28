@@ -9,12 +9,12 @@ title: Phil
 [New Testament](/new-testament)
 
 
-[prev: Eph](../eph)
+[prev: Eph](/new-testament/eph)
 
 
-[next: Col](../col)
+[next: Col](/new-testament/col)
 
-- [1](phil-1.html)
-- [2](phil-2.html)
-- [3](phil-3.html)
-- [4](phil-4.html)
+- [1](/new-testament/phil/phil-1.html)
+- [2](/new-testament/phil/phil-2.html)
+- [3](/new-testament/phil/phil-3.html)
+- [4](/new-testament/phil/phil-4.html)

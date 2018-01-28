@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 14
+title: [Luke](/new-testament/luke) 14
 ---
 
-# [Luke](../luke) 14
+# [Luke](/new-testament/luke) 14
 
 [New Testament](/new-testament)
 
 
-[prev](luke-13.html)
+[prev](/new-testament/luke/luke-13.html)
 
 
-[next](luke-15.html)
+[next](/new-testament/luke/luke-15.html)
 
 1 _One Sabbath day Jesus went to eat at the house of a ruler. He was a ruler of the Pharisees. They were watching Jesus._
 

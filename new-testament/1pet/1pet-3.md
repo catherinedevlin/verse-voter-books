@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Pet](../1pet) 3
+title: [1Pet](/new-testament/1pet) 3
 ---
 
-# [1Pet](../1pet) 3
+# [1Pet](/new-testament/1pet) 3
 
 [New Testament](/new-testament)
 
 
-[prev](1pet-2.html)
+[prev](/new-testament/1pet/1pet-2.html)
 
 
-[next](1pet-4.html)
+[next](/new-testament/1pet/1pet-4.html)
 
 1 _Wives, respect and obey your husbands in the same way. Then the husbands who do not obey the word of God will want to know God. They will want to know God because their wives live good lives, even though they say nothing about God._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [2Pet](../2pet) 2
+title: [2Pet](/new-testament/2pet) 2
 ---
 
-# [2Pet](../2pet) 2
+# [2Pet](/new-testament/2pet) 2
 
 [New Testament](/new-testament)
 
 
-[prev](2pet-1.html)
+[prev](/new-testament/2pet/2pet-1.html)
 
 
-[next](2pet-3.html)
+[next](/new-testament/2pet/2pet-3.html)
 
 1 _But prophets who were not true were also among the people of Israel. Also there will be teachers who will not be true among you. They will bring in wrong teaching that leads to death. They will even say that they do not belong to the Master who bought them. And so they will quickly bring themselves to death._
 

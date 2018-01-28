@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Thess](../1thess) 3
+title: [1Thess](/new-testament/1thess) 3
 ---
 
-# [1Thess](../1thess) 3
+# [1Thess](/new-testament/1thess) 3
 
 [New Testament](/new-testament)
 
 
-[prev](1thess-2.html)
+[prev](/new-testament/1thess/1thess-2.html)
 
 
-[next](1thess-4.html)
+[next](/new-testament/1thess/1thess-4.html)
 
 1 _We felt we could not wait any longer. So we thought it best to stay at the city of Athens alone._
 

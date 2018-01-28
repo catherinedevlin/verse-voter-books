@@ -9,11 +9,11 @@ title: 2Thess
 [New Testament](/new-testament)
 
 
-[prev: 1Thess](../1thess)
+[prev: 1Thess](/new-testament/1thess)
 
 
-[next: 1Tim](../1tim)
+[next: 1Tim](/new-testament/1tim)
 
-- [1](2thess-1.html)
-- [2](2thess-2.html)
-- [3](2thess-3.html)
+- [1](/new-testament/2thess/2thess-1.html)
+- [2](/new-testament/2thess/2thess-2.html)
+- [3](/new-testament/2thess/2thess-3.html)

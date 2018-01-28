@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 9
+title: [Acts](/new-testament/acts) 9
 ---
 
-# [Acts](../acts) 9
+# [Acts](/new-testament/acts) 9
 
 [New Testament](/new-testament)
 
 
-[prev](acts-8.html)
+[prev](/new-testament/acts/acts-8.html)
 
 
-[next](acts-10.html)
+[next](/new-testament/acts/acts-10.html)
 
 1 _Saul was still very angry with the Lords disciples. He said he would kill them. He went to the high priest._
 

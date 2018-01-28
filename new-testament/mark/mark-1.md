@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Mark](../mark) 1
+title: [Mark](/new-testament/mark) 1
 ---
 
-# [Mark](../mark) 1
+# [Mark](/new-testament/mark) 1
 
 [New Testament](/new-testament)
 
 
-[next](mark-2.html)
+[next](/new-testament/mark/mark-2.html)
 
 [1](https://reddit.com/75o4u2) _This is the beginning of the good news about Jesus Christ, Gods Son._
 

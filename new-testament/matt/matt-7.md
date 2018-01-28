@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 7
+title: [Matt](/new-testament/matt) 7
 ---
 
-# [Matt](../matt) 7
+# [Matt](/new-testament/matt) 7
 
 [New Testament](/new-testament)
 
 
-[prev](matt-6.html)
+[prev](/new-testament/matt/matt-6.html)
 
 
-[next](matt-8.html)
+[next](/new-testament/matt/matt-8.html)
 
 1 _Do not judge others, then you will not be judged._
 

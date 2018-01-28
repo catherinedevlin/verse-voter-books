@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Rev](../rev) 22
+title: [Rev](/new-testament/rev) 22
 ---
 
-# [Rev](../rev) 22
+# [Rev](/new-testament/rev) 22
 
 [New Testament](/new-testament)
 
 
-[prev](rev-21.html)
+[prev](/new-testament/rev/rev-21.html)
 
 1 _Then the angel showed me a river of the water which gives life. It was as clear as glass. It flows from the throne of God and the Lamb._
 

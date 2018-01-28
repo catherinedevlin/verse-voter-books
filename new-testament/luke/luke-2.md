@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 2
+title: [Luke](/new-testament/luke) 2
 ---
 
-# [Luke](../luke) 2
+# [Luke](/new-testament/luke) 2
 
 [New Testament](/new-testament)
 
 
-[prev](luke-1.html)
+[prev](/new-testament/luke/luke-1.html)
 
 
-[next](luke-3.html)
+[next](/new-testament/luke/luke-3.html)
 
 [1](https://reddit.com/75o4v4) _About that time, Augustus the Roman ruler made a law. All the people in the world must have their names written down in a book._
 

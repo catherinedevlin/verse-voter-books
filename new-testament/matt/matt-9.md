@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 9
+title: [Matt](/new-testament/matt) 9
 ---
 
-# [Matt](../matt) 9
+# [Matt](/new-testament/matt) 9
 
 [New Testament](/new-testament)
 
 
-[prev](matt-8.html)
+[prev](/new-testament/matt/matt-8.html)
 
 
-[next](matt-10.html)
+[next](/new-testament/matt/matt-10.html)
 
 1 _Jesus got in the boat and crossed the sea. He came to his own town._
 

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Jas](../jas) 1
+title: [Jas](/new-testament/jas) 1
 ---
 
-# [Jas](../jas) 1
+# [Jas](/new-testament/jas) 1
 
 [New Testament](/new-testament)
 
 
-[next](jas-2.html)
+[next](/new-testament/jas/jas-2.html)
 
 1 _I am James. I am a servant of God and of the Lord Jesus Christ. I send greetings to all of Gods people wherever they live._
 

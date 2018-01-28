@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rom](../rom) 14
+title: [Rom](/new-testament/rom) 14
 ---
 
-# [Rom](../rom) 14
+# [Rom](/new-testament/rom) 14
 
 [New Testament](/new-testament)
 
 
-[prev](rom-13.html)
+[prev](/new-testament/rom/rom-13.html)
 
 
-[next](rom-15.html)
+[next](/new-testament/rom/rom-15.html)
 
 1 _Be ready to take a person into the church even if he does not know and believe all you believe. Do not judge what he thinks about things._
 

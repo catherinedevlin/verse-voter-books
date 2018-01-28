@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 25
+title: [Acts](/new-testament/acts) 25
 ---
 
-# [Acts](../acts) 25
+# [Acts](/new-testament/acts) 25
 
 [New Testament](/new-testament)
 
 
-[prev](acts-24.html)
+[prev](/new-testament/acts/acts-24.html)
 
 
-[next](acts-26.html)
+[next](/new-testament/acts/acts-26.html)
 
 1 _Three days after Festus came to the country, he went to Jerusalem from Caesarea._
 

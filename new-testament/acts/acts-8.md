@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 8
+title: [Acts](/new-testament/acts) 8
 ---
 
-# [Acts](../acts) 8
+# [Acts](/new-testament/acts) 8
 
 [New Testament](/new-testament)
 
 
-[prev](acts-7.html)
+[prev](/new-testament/acts/acts-7.html)
 
 
-[next](acts-9.html)
+[next](/new-testament/acts/acts-9.html)
 
 1 _Saul agreed to Stephen being killed. At that time the church people at Jerusalem had much trouble. The church people all went into Judea and Samaria. Only the apostles stayed on at Jerusalem._
 

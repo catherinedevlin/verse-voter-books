@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 27
+title: [Acts](/new-testament/acts) 27
 ---
 
-# [Acts](../acts) 27
+# [Acts](/new-testament/acts) 27
 
 [New Testament](/new-testament)
 
 
-[prev](acts-26.html)
+[prev](/new-testament/acts/acts-26.html)
 
 
-[next](acts-28.html)
+[next](/new-testament/acts/acts-28.html)
 
 1 _It was planned that we would go by boat to Italy. An officer named Julius was put in charge of Paul and some other prisoners. Julius was an army captain in the Augustan group._
 

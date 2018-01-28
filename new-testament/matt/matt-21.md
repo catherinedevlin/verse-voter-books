@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 21
+title: [Matt](/new-testament/matt) 21
 ---
 
-# [Matt](../matt) 21
+# [Matt](/new-testament/matt) 21
 
 [New Testament](/new-testament)
 
 
-[prev](matt-20.html)
+[prev](/new-testament/matt/matt-20.html)
 
 
-[next](matt-22.html)
+[next](/new-testament/matt/matt-22.html)
 
 1 _Jesus and his disciples came near to Jerusalem. They came to the village of Bethphage by the hill called the Mount of Olives. Then Jesus sent two of his disciples ahead._
 

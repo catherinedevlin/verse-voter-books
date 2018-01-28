@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rom](../rom) 11
+title: [Rom](/new-testament/rom) 11
 ---
 
-# [Rom](../rom) 11
+# [Rom](/new-testament/rom) 11
 
 [New Testament](/new-testament)
 
 
-[prev](rom-10.html)
+[prev](/new-testament/rom/rom-10.html)
 
 
-[next](rom-12.html)
+[next](/new-testament/rom/rom-12.html)
 
 1 _So I ask, has God left his people? No, he has not! I myself am a Jew. I was born in Abrahams family. I belong to the tribe of Benjamin._
 

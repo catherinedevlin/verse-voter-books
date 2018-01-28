@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 2
+title: [Rev](/new-testament/rev) 2
 ---
 
-# [Rev](../rev) 2
+# [Rev](/new-testament/rev) 2
 
 [New Testament](/new-testament)
 
 
-[prev](rev-1.html)
+[prev](/new-testament/rev/rev-1.html)
 
 
-[next](rev-3.html)
+[next](/new-testament/rev/rev-3.html)
 
 1 _Write this to the angel of the church people in Ephesus: Here are the words of the one who holds the seven stars in his hand, the one who walks among the seven gold lamps._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rom](../rom) 15
+title: [Rom](/new-testament/rom) 15
 ---
 
-# [Rom](../rom) 15
+# [Rom](/new-testament/rom) 15
 
 [New Testament](/new-testament)
 
 
-[prev](rom-14.html)
+[prev](/new-testament/rom/rom-14.html)
 
 
-[next](rom-16.html)
+[next](/new-testament/rom/rom-16.html)
 
 1 _We who are strong must help those who are not strong. We must not do what pleases us._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Col](../col) 3
+title: [Col](/new-testament/col) 3
 ---
 
-# [Col](../col) 3
+# [Col](/new-testament/col) 3
 
 [New Testament](/new-testament)
 
 
-[prev](col-2.html)
+[prev](/new-testament/col/col-2.html)
 
 
-[next](col-4.html)
+[next](/new-testament/col/col-4.html)
 
 1 _Were you raised from death with Christ? Then look for the things which are in heaven.  There Christ is sitting at the right hand of God._
 

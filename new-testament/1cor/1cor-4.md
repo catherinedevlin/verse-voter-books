@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Cor](../1cor) 4
+title: [1Cor](/new-testament/1cor) 4
 ---
 
-# [1Cor](../1cor) 4
+# [1Cor](/new-testament/1cor) 4
 
 [New Testament](/new-testament)
 
 
-[prev](1cor-3.html)
+[prev](/new-testament/1cor/1cor-3.html)
 
 
-[next](1cor-5.html)
+[next](/new-testament/1cor/1cor-5.html)
 
 1 _People should look at us as men who are servants of Christ. We take care of the secret things of God._
 

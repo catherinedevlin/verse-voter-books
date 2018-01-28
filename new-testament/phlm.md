@@ -9,9 +9,9 @@ title: Phlm
 [New Testament](/new-testament)
 
 
-[prev: Titus](../titus)
+[prev: Titus](/new-testament/titus)
 
 
-[next: Heb](../heb)
+[next: Heb](/new-testament/heb)
 
-- [1](phlm-1.html)
+- [1](/new-testament/phlm/phlm-1.html)

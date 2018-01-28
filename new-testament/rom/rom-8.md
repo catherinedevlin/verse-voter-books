@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rom](../rom) 8
+title: [Rom](/new-testament/rom) 8
 ---
 
-# [Rom](../rom) 8
+# [Rom](/new-testament/rom) 8
 
 [New Testament](/new-testament)
 
 
-[prev](rom-7.html)
+[prev](/new-testament/rom/rom-7.html)
 
 
-[next](rom-9.html)
+[next](/new-testament/rom/rom-9.html)
 
 1 _So now those who belong to Christ Jesus will not be judged._
 

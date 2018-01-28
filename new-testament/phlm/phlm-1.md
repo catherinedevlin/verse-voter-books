@@ -1,9 +1,9 @@
 ---
 layout: page
-title: [Phlm](../phlm) 1
+title: [Phlm](/new-testament/phlm) 1
 ---
 
-# [Phlm](../phlm) 1
+# [Phlm](/new-testament/phlm) 1
 
 [New Testament](/new-testament)
 

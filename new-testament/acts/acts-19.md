@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 19
+title: [Acts](/new-testament/acts) 19
 ---
 
-# [Acts](../acts) 19
+# [Acts](/new-testament/acts) 19
 
 [New Testament](/new-testament)
 
 
-[prev](acts-18.html)
+[prev](/new-testament/acts/acts-18.html)
 
 
-[next](acts-20.html)
+[next](/new-testament/acts/acts-20.html)
 
 1 _While Apollos was at Corinth, Paul went over land and came to the city of Ephesus.  There he met some disciples._
 

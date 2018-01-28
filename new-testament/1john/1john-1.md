@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [1John](../1john) 1
+title: [1John](/new-testament/1john) 1
 ---
 
-# [1John](../1john) 1
+# [1John](/new-testament/1john) 1
 
 [New Testament](/new-testament)
 
 
-[next](1john-2.html)
+[next](/new-testament/1john/1john-2.html)
 
 1 _The Word of life always was living, even from the beginning. We heard him. We saw him with our own eyes. We looked at him, and we touched him with our own hands. We are writing to you about this Word of life._
 

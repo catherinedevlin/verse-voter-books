@@ -1,9 +1,9 @@
 ---
 layout: page
-title: [Jude](../jude) 1
+title: [Jude](/new-testament/jude) 1
 ---
 
-# [Jude](../jude) 1
+# [Jude](/new-testament/jude) 1
 
 [New Testament](/new-testament)
 

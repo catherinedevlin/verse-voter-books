@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rom](../rom) 12
+title: [Rom](/new-testament/rom) 12
 ---
 
-# [Rom](../rom) 12
+# [Rom](/new-testament/rom) 12
 
 [New Testament](/new-testament)
 
 
-[prev](rom-11.html)
+[prev](/new-testament/rom/rom-11.html)
 
 
-[next](rom-13.html)
+[next](/new-testament/rom/rom-13.html)
 
 1 _God has been kind to you. So I ask you, brothers, give your bodies to him like a living sacrifice. That is, a holy sacrifice. It will please God. And it is what you should do for him._
 

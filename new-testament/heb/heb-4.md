@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Heb](../heb) 4
+title: [Heb](/new-testament/heb) 4
 ---
 
-# [Heb](../heb) 4
+# [Heb](/new-testament/heb) 4
 
 [New Testament](/new-testament)
 
 
-[prev](heb-3.html)
+[prev](/new-testament/heb/heb-3.html)
 
 
-[next](heb-5.html)
+[next](/new-testament/heb/heb-5.html)
 
 1 _We still have Gods promise that people will go into his resting place. So let us take care that not one of you will be kept out._
 

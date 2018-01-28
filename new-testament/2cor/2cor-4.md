@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [2Cor](../2cor) 4
+title: [2Cor](/new-testament/2cor) 4
 ---
 
-# [2Cor](../2cor) 4
+# [2Cor](/new-testament/2cor) 4
 
 [New Testament](/new-testament)
 
 
-[prev](2cor-3.html)
+[prev](/new-testament/2cor/2cor-3.html)
 
 
-[next](2cor-5.html)
+[next](/new-testament/2cor/2cor-5.html)
 
 1 _God in his kindness gave us this work. So we do not give up._
 

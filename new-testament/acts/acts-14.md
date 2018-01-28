@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 14
+title: [Acts](/new-testament/acts) 14
 ---
 
-# [Acts](../acts) 14
+# [Acts](/new-testament/acts) 14
 
 [New Testament](/new-testament)
 
 
-[prev](acts-13.html)
+[prev](/new-testament/acts/acts-13.html)
 
 
-[next](acts-15.html)
+[next](/new-testament/acts/acts-15.html)
 
 1 _In Iconium Paul and Barnabas did as they had done before in other places. They went into the Jews meeting place and spoke. Many of the Jews and the other people believed._
 

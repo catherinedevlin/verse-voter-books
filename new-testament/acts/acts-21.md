@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 21
+title: [Acts](/new-testament/acts) 21
 ---
 
-# [Acts](../acts) 21
+# [Acts](/new-testament/acts) 21
 
 [New Testament](/new-testament)
 
 
-[prev](acts-20.html)
+[prev](/new-testament/acts/acts-20.html)
 
 
-[next](acts-22.html)
+[next](/new-testament/acts/acts-22.html)
 
 1 _When we had said goodbye to them, we left them. We went straight across the water to the island of Cos. The next day we came to the island of Rhodes. Then we went to the city of Patara._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 5
+title: [John](/new-testament/john) 5
 ---
 
-# [John](../john) 5
+# [John](/new-testament/john) 5
 
 [New Testament](/new-testament)
 
 
-[prev](john-4.html)
+[prev](/new-testament/john/john-4.html)
 
 
-[next](john-6.html)
+[next](/new-testament/john/john-6.html)
 
 1 _After that, the Jews had a feast and Jesus went to Jerusalem._
 

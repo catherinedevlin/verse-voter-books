@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 6
+title: [John](/new-testament/john) 6
 ---
 
-# [John](../john) 6
+# [John](/new-testament/john) 6
 
 [New Testament](/new-testament)
 
 
-[prev](john-5.html)
+[prev](/new-testament/john/john-5.html)
 
 
-[next](john-7.html)
+[next](/new-testament/john/john-7.html)
 
 1 _Then Jesus crossed over the sea of Galilee. (Another name for this sea was Tiberias.)_
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Gal](../gal) 3
+title: [Gal](/new-testament/gal) 3
 ---
 
-# [Gal](../gal) 3
+# [Gal](/new-testament/gal) 3
 
 [New Testament](/new-testament)
 
 
-[prev](gal-2.html)
+[prev](/new-testament/gal/gal-2.html)
 
 
-[next](gal-4.html)
+[next](/new-testament/gal/gal-4.html)
 
 1 _O you Galatians, have you no sense at all? Who has fooled you? You knew, just as if you had seen him with your own eyes, that Jesus Christ was killed on a cross._
 

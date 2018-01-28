@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Thess](../1thess) 4
+title: [1Thess](/new-testament/1thess) 4
 ---
 
-# [1Thess](../1thess) 4
+# [1Thess](/new-testament/1thess) 4
 
 [New Testament](/new-testament)
 
 
-[prev](1thess-3.html)
+[prev](/new-testament/1thess/1thess-3.html)
 
 
-[next](1thess-5.html)
+[next](/new-testament/1thess/1thess-5.html)
 
 1 _And now, brothers, here is what we ask you to do. We beg you in the name of the Lord Jesus. We taught you how to live and to please God. You are living that way now, and we want you to do so more and more._
 

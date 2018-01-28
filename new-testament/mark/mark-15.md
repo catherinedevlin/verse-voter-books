@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Mark](../mark) 15
+title: [Mark](/new-testament/mark) 15
 ---
 
-# [Mark](../mark) 15
+# [Mark](/new-testament/mark) 15
 
 [New Testament](/new-testament)
 
 
-[prev](mark-14.html)
+[prev](/new-testament/mark/mark-14.html)
 
 
-[next](mark-16.html)
+[next](/new-testament/mark/mark-16.html)
 
 1 _As soon as it was morning, the chief priests, leaders, and the scribes talked together.  They tied Jesus and took him before Pilate to be judged._
 

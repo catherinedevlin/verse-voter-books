@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Thess](../1thess) 2
+title: [1Thess](/new-testament/1thess) 2
 ---
 
-# [1Thess](../1thess) 2
+# [1Thess](/new-testament/1thess) 2
 
 [New Testament](/new-testament)
 
 
-[prev](1thess-1.html)
+[prev](/new-testament/1thess/1thess-1.html)
 
 
-[next](1thess-3.html)
+[next](/new-testament/1thess/1thess-3.html)
 
 1 _My brothers, you yourselves know that our visit to you was not for nothing._
 

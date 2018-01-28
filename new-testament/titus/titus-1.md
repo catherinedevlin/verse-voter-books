@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Titus](../titus) 1
+title: [Titus](/new-testament/titus) 1
 ---
 
-# [Titus](../titus) 1
+# [Titus](/new-testament/titus) 1
 
 [New Testament](/new-testament)
 
 
-[next](titus-2.html)
+[next](/new-testament/titus/titus-2.html)
 
 1 _I am Paul. I am a servant of God and an apostle of Jesus Christ. I have been sent to Gods chosen people so that they will believe and know what is true. This will make them more like God wants them to be._
 

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [John](../john) 21
+title: [John](/new-testament/john) 21
 ---
 
-# [John](../john) 21
+# [John](/new-testament/john) 21
 
 [New Testament](/new-testament)
 
 
-[prev](john-20.html)
+[prev](/new-testament/john/john-20.html)
 
 1 _The next time the disciples saw Jesus was at the Sea of Tiberias Galilee . This is how Jesus showed himself to them._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 17
+title: [Acts](/new-testament/acts) 17
 ---
 
-# [Acts](../acts) 17
+# [Acts](/new-testament/acts) 17
 
 [New Testament](/new-testament)
 
 
-[prev](acts-16.html)
+[prev](/new-testament/acts/acts-16.html)
 
 
-[next](acts-18.html)
+[next](/new-testament/acts/acts-18.html)
 
 1 _Paul and Silas went through the cities of Amphipolis and Apollonia. Then they reached the town of Thessalonica. Here the Jews had a meeting place._
 

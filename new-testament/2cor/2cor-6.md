@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [2Cor](../2cor) 6
+title: [2Cor](/new-testament/2cor) 6
 ---
 
-# [2Cor](../2cor) 6
+# [2Cor](/new-testament/2cor) 6
 
 [New Testament](/new-testament)
 
 
-[prev](2cor-5.html)
+[prev](/new-testament/2cor/2cor-5.html)
 
 
-[next](2cor-7.html)
+[next](/new-testament/2cor/2cor-7.html)
 
 1 _We work with God. So we beg you, do not take Gods blessing and get nothing from it._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Titus](../titus) 2
+title: [Titus](/new-testament/titus) 2
 ---
 
-# [Titus](../titus) 2
+# [Titus](/new-testament/titus) 2
 
 [New Testament](/new-testament)
 
 
-[prev](titus-1.html)
+[prev](/new-testament/titus/titus-1.html)
 
 
-[next](titus-3.html)
+[next](/new-testament/titus/titus-3.html)
 
 1 _But as for you, Titus, you must teach what is right._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 3
+title: [Luke](/new-testament/luke) 3
 ---
 
-# [Luke](../luke) 3
+# [Luke](/new-testament/luke) 3
 
 [New Testament](/new-testament)
 
 
-[prev](luke-2.html)
+[prev](/new-testament/luke/luke-2.html)
 
 
-[next](luke-4.html)
+[next](/new-testament/luke/luke-4.html)
 
 [1](https://reddit.com/75o4vc) _Tiberius Caesar had been king for fifteen years. Pontius Pilate was the ruler of Judea.  Herod was the ruler of Galilee. Herods brother Philip was the ruler of Iturea and Trachonitis. Lysanias was the ruler of Abilene._
 

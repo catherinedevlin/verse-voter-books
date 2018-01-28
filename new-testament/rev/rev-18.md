@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 18
+title: [Rev](/new-testament/rev) 18
 ---
 
-# [Rev](../rev) 18
+# [Rev](/new-testament/rev) 18
 
 [New Testament](/new-testament)
 
 
-[prev](rev-17.html)
+[prev](/new-testament/rev/rev-17.html)
 
 
-[next](rev-19.html)
+[next](/new-testament/rev/rev-19.html)
 
 1 _After that I saw another angel coming down from the sky. He had much power. The bright light that shone from him lit up the earth._
 

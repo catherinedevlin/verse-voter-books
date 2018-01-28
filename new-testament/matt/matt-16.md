@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 16
+title: [Matt](/new-testament/matt) 16
 ---
 
-# [Matt](../matt) 16
+# [Matt](/new-testament/matt) 16
 
 [New Testament](/new-testament)
 
 
-[prev](matt-15.html)
+[prev](/new-testament/matt/matt-15.html)
 
 
-[next](matt-17.html)
+[next](/new-testament/matt/matt-17.html)
 
 1 _The Pharisees and Sadducees came to Jesus. They wanted to test him, so they asked him to show them a sign from the sky._
 

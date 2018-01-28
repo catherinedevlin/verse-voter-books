@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Cor](../1cor) 5
+title: [1Cor](/new-testament/1cor) 5
 ---
 
-# [1Cor](../1cor) 5
+# [1Cor](/new-testament/1cor) 5
 
 [New Testament](/new-testament)
 
 
-[prev](1cor-4.html)
+[prev](/new-testament/1cor/1cor-4.html)
 
 
-[next](1cor-6.html)
+[next](/new-testament/1cor/1cor-6.html)
 
 1 _I have heard a very bad report about you. I hear there are wrong sexual ways among you. Even the people who are not Jews do not allow wrong sex such as this among them.  A man is living with his fathers wife!_
 

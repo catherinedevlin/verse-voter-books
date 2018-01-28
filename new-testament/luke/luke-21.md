@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 21
+title: [Luke](/new-testament/luke) 21
 ---
 
-# [Luke](../luke) 21
+# [Luke](/new-testament/luke) 21
 
 [New Testament](/new-testament)
 
 
-[prev](luke-20.html)
+[prev](/new-testament/luke/luke-20.html)
 
 
-[next](luke-22.html)
+[next](/new-testament/luke/luke-22.html)
 
 1 _Jesus looked around in the temple. He saw the place where the people put in their money. Rich people were putting in their money._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Phil](../phil) 2
+title: [Phil](/new-testament/phil) 2
 ---
 
-# [Phil](../phil) 2
+# [Phil](/new-testament/phil) 2
 
 [New Testament](/new-testament)
 
 
-[prev](phil-1.html)
+[prev](/new-testament/phil/phil-1.html)
 
 
-[next](phil-3.html)
+[next](/new-testament/phil/phil-3.html)
 
 1 _Does Christ speak to you? Does love call to you? Do you have a part in the Holy Spirit?  Do you have any love and care for others?_
 

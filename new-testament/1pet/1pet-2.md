@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Pet](../1pet) 2
+title: [1Pet](/new-testament/1pet) 2
 ---
 
-# [1Pet](../1pet) 2
+# [1Pet](/new-testament/1pet) 2
 
 [New Testament](/new-testament)
 
 
-[prev](1pet-1.html)
+[prev](/new-testament/1pet/1pet-1.html)
 
 
-[next](1pet-3.html)
+[next](/new-testament/1pet/1pet-3.html)
 
 1 _So stop all the wrong things you do. Stop all the ways you cheat people. Stop fooling people. Stop being jealous. Stop saying wrong things about people._
 

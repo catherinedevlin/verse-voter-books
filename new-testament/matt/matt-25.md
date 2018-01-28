@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 25
+title: [Matt](/new-testament/matt) 25
 ---
 
-# [Matt](../matt) 25
+# [Matt](/new-testament/matt) 25
 
 [New Testament](/new-testament)
 
 
-[prev](matt-24.html)
+[prev](/new-testament/matt/matt-24.html)
 
 
-[next](matt-26.html)
+[next](/new-testament/matt/matt-26.html)
 
 1 _Then the kingdom of heaven will be like this. Ten young women took their lamps and went to meet a man who was being married._
 

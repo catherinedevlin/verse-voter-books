@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Heb](../heb) 12
+title: [Heb](/new-testament/heb) 12
 ---
 
-# [Heb](../heb) 12
+# [Heb](/new-testament/heb) 12
 
 [New Testament](/new-testament)
 
 
-[prev](heb-11.html)
+[prev](/new-testament/heb/heb-11.html)
 
 
-[next](heb-13.html)
+[next](/new-testament/heb/heb-13.html)
 
 1 _We have all these people all around us, proving to us that we should believe God. So then,  like people running a race, we must take off everything that is heavy. We must put off all wrong, wrong things that get in our way. We must not stop running until we reach the mark that has been put in front of us._
 

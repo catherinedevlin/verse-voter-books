@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 15
+title: [Luke](/new-testament/luke) 15
 ---
 
-# [Luke](../luke) 15
+# [Luke](/new-testament/luke) 15
 
 [New Testament](/new-testament)
 
 
-[prev](luke-14.html)
+[prev](/new-testament/luke/luke-14.html)
 
 
-[next](luke-16.html)
+[next](/new-testament/luke/luke-16.html)
 
 1 _The tax collectors and bad people all came close to Jesus to hear him._
 

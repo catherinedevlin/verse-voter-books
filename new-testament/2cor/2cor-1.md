@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [2Cor](../2cor) 1
+title: [2Cor](/new-testament/2cor) 1
 ---
 
-# [2Cor](../2cor) 1
+# [2Cor](/new-testament/2cor) 1
 
 [New Testament](/new-testament)
 
 
-[next](2cor-2.html)
+[next](/new-testament/2cor/2cor-2.html)
 
 1 _I am Paul. I am called by God to be an apostle of Jesus Christ. My Christian brother Timothy and I send greetings to the church of God in the city of Corinth. We also send greetings to all of Gods people in the country of Greece._
 

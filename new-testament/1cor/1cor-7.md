@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Cor](../1cor) 7
+title: [1Cor](/new-testament/1cor) 7
 ---
 
-# [1Cor](../1cor) 7
+# [1Cor](/new-testament/1cor) 7
 
 [New Testament](/new-testament)
 
 
-[prev](1cor-6.html)
+[prev](/new-testament/1cor/1cor-6.html)
 
 
-[next](1cor-8.html)
+[next](/new-testament/1cor/1cor-8.html)
 
 1 _You wrote me a letter. Here is my answer to the things in the letter. It is good if a man has nothing to do with a woman._
 

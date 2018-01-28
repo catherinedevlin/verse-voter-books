@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 5
+title: [Acts](/new-testament/acts) 5
 ---
 
-# [Acts](../acts) 5
+# [Acts](/new-testament/acts) 5
 
 [New Testament](/new-testament)
 
 
-[prev](acts-4.html)
+[prev](/new-testament/acts/acts-4.html)
 
 
-[next](acts-6.html)
+[next](/new-testament/acts/acts-6.html)
 
 1 _A man named Ananias and his wife, Sapphira, sold a field. He brought some of the money to the apostles. But he kept the rest of it. His wife knew what he had done._
 

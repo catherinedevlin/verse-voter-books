@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [2Tim](../2tim) 1
+title: [2Tim](/new-testament/2tim) 1
 ---
 
-# [2Tim](../2tim) 1
+# [2Tim](/new-testament/2tim) 1
 
 [New Testament](/new-testament)
 
 
-[next](2tim-2.html)
+[next](/new-testament/2tim/2tim-2.html)
 
 1 _I am Paul. I am an apostle of Christ Jesus because God wanted me to be. This is because God has promised life through Christ Jesus._
 

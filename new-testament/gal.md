@@ -9,14 +9,14 @@ title: Gal
 [New Testament](/new-testament)
 
 
-[prev: 2Cor](../2cor)
+[prev: 2Cor](/new-testament/2cor)
 
 
-[next: Eph](../eph)
+[next: Eph](/new-testament/eph)
 
-- [1](gal-1.html)
-- [2](gal-2.html)
-- [3](gal-3.html)
-- [4](gal-4.html)
-- [5](gal-5.html)
-- [6](gal-6.html)
+- [1](/new-testament/gal/gal-1.html)
+- [2](/new-testament/gal/gal-2.html)
+- [3](/new-testament/gal/gal-3.html)
+- [4](/new-testament/gal/gal-4.html)
+- [5](/new-testament/gal/gal-5.html)
+- [6](/new-testament/gal/gal-6.html)

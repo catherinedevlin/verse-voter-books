@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 26
+title: [Matt](/new-testament/matt) 26
 ---
 
-# [Matt](../matt) 26
+# [Matt](/new-testament/matt) 26
 
 [New Testament](/new-testament)
 
 
-[prev](matt-25.html)
+[prev](/new-testament/matt/matt-25.html)
 
 
-[next](matt-27.html)
+[next](/new-testament/matt/matt-27.html)
 
 1 _When Jesus had finished telling all these things, he talked to his disciples._
 

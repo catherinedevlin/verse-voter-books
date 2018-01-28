@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 11
+title: [Rev](/new-testament/rev) 11
 ---
 
-# [Rev](../rev) 11
+# [Rev](/new-testament/rev) 11
 
 [New Testament](/new-testament)
 
 
-[prev](rev-10.html)
+[prev](/new-testament/rev/rev-10.html)
 
 
-[next](rev-12.html)
+[next](/new-testament/rev/rev-12.html)
 
 1 _Then I was given a long stick. And he said, Go and measure Gods temple and the altar,  and count the people who worship there._
 

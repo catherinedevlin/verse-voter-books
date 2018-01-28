@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 10
+title: [Luke](/new-testament/luke) 10
 ---
 
-# [Luke](../luke) 10
+# [Luke](/new-testament/luke) 10
 
 [New Testament](/new-testament)
 
 
-[prev](luke-9.html)
+[prev](/new-testament/luke/luke-9.html)
 
 
-[next](luke-11.html)
+[next](/new-testament/luke/luke-11.html)
 
 1 _After this the Lord chose seventy other men. He sent them ahead of him, two by two. He sent them to every town and village that he was going to visit._
 

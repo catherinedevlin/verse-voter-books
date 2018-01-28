@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Luke](../luke) 24
+title: [Luke](/new-testament/luke) 24
 ---
 
-# [Luke](../luke) 24
+# [Luke](/new-testament/luke) 24
 
 [New Testament](/new-testament)
 
 
-[prev](luke-23.html)
+[prev](/new-testament/luke/luke-23.html)
 
 1 _On the first day of the week, early in the morning, the women went to the grave. They took with them the things they had made ready._
 

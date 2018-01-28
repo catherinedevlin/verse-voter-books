@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [2Cor](../2cor) 3
+title: [2Cor](/new-testament/2cor) 3
 ---
 
-# [2Cor](../2cor) 3
+# [2Cor](/new-testament/2cor) 3
 
 [New Testament](/new-testament)
 
 
-[prev](2cor-2.html)
+[prev](/new-testament/2cor/2cor-2.html)
 
 
-[next](2cor-4.html)
+[next](/new-testament/2cor/2cor-4.html)
 
 1 _Do you think we are starting again to tell how good we are? Do we need letters to tell about us, as some teachers do? We do not need letters to you or from you to praise us._
 

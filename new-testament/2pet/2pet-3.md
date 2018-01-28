@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [2Pet](../2pet) 3
+title: [2Pet](/new-testament/2pet) 3
 ---
 
-# [2Pet](../2pet) 3
+# [2Pet](/new-testament/2pet) 3
 
 [New Testament](/new-testament)
 
 
-[prev](2pet-2.html)
+[prev](/new-testament/2pet/2pet-2.html)
 
 1 _My dear brothers, this is my second letter to you. In both of my letters I have tried to bring some things to your good minds._
 

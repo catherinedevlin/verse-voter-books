@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 10
+title: [Rev](/new-testament/rev) 10
 ---
 
-# [Rev](../rev) 10
+# [Rev](/new-testament/rev) 10
 
 [New Testament](/new-testament)
 
 
-[prev](rev-9.html)
+[prev](/new-testament/rev/rev-9.html)
 
 
-[next](rev-11.html)
+[next](/new-testament/rev/rev-11.html)
 
 1 _Then I saw another strong angel coming down from the sky. A cloud was around him and a rainbow was over his head. His face was like the sun and his legs were like posts of fire._
 

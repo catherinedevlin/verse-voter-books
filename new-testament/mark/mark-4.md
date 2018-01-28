@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Mark](../mark) 4
+title: [Mark](/new-testament/mark) 4
 ---
 
-# [Mark](../mark) 4
+# [Mark](/new-testament/mark) 4
 
 [New Testament](/new-testament)
 
 
-[prev](mark-3.html)
+[prev](/new-testament/mark/mark-3.html)
 
 
-[next](mark-5.html)
+[next](/new-testament/mark/mark-5.html)
 
 1 _Jesus began to teach people by the sea again. Many people came to him. So he got in a boat on the sea and sat down. The people were by the sea on the land._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 6
+title: [Luke](/new-testament/luke) 6
 ---
 
-# [Luke](../luke) 6
+# [Luke](/new-testament/luke) 6
 
 [New Testament](/new-testament)
 
 
-[prev](luke-5.html)
+[prev](/new-testament/luke/luke-5.html)
 
 
-[next](luke-7.html)
+[next](/new-testament/luke/luke-7.html)
 
 1 _Jesus was walking through the grain fields on a Sabbath day. His disciples picked some of the grain as they went along. They cleaned it by rubbing it in their hands, and ate it._
 

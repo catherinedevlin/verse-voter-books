@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 3
+title: [Acts](/new-testament/acts) 3
 ---
 
-# [Acts](../acts) 3
+# [Acts](/new-testament/acts) 3
 
 [New Testament](/new-testament)
 
 
-[prev](acts-2.html)
+[prev](/new-testament/acts/acts-2.html)
 
 
-[next](acts-4.html)
+[next](/new-testament/acts/acts-4.html)
 
 1 _One day at three oclock, Peter and John went to the temple to talk with God._
 

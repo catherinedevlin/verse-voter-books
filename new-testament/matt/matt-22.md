@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 22
+title: [Matt](/new-testament/matt) 22
 ---
 
-# [Matt](../matt) 22
+# [Matt](/new-testament/matt) 22
 
 [New Testament](/new-testament)
 
 
-[prev](matt-21.html)
+[prev](/new-testament/matt/matt-21.html)
 
 
-[next](matt-23.html)
+[next](/new-testament/matt/matt-23.html)
 
 1 _Jesus told them other stories._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Jas](../jas) 4
+title: [Jas](/new-testament/jas) 4
 ---
 
-# [Jas](../jas) 4
+# [Jas](/new-testament/jas) 4
 
 [New Testament](/new-testament)
 
 
-[prev](jas-3.html)
+[prev](/new-testament/jas/jas-3.html)
 
 
-[next](jas-5.html)
+[next](/new-testament/jas/jas-5.html)
 
 1 _Why do you fight and quarrel? It is because your feelings are fighting inside of you. That is why you fight._
 

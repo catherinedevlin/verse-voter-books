@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 5
+title: [Luke](/new-testament/luke) 5
 ---
 
-# [Luke](../luke) 5
+# [Luke](/new-testament/luke) 5
 
 [New Testament](/new-testament)
 
 
-[prev](luke-4.html)
+[prev](/new-testament/luke/luke-4.html)
 
 
-[next](luke-6.html)
+[next](/new-testament/luke/luke-6.html)
 
 1 _The people came close around Jesus to hear Gods word. He was standing by Lake Gennesaret the Sea of Galilee ._
 

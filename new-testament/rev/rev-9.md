@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 9
+title: [Rev](/new-testament/rev) 9
 ---
 
-# [Rev](../rev) 9
+# [Rev](/new-testament/rev) 9
 
 [New Testament](/new-testament)
 
 
-[prev](rev-8.html)
+[prev](/new-testament/rev/rev-8.html)
 
 
-[next](rev-10.html)
+[next](/new-testament/rev/rev-10.html)
 
 1 _Then the fifth angel blew his trumpet. I saw a star that had fallen from the sky to the earth. The key to the big hole that has no bottom was given to the angel._
 

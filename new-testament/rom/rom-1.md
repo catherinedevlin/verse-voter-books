@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Rom](../rom) 1
+title: [Rom](/new-testament/rom) 1
 ---
 
-# [Rom](../rom) 1
+# [Rom](/new-testament/rom) 1
 
 [New Testament](/new-testament)
 
 
-[next](rom-2.html)
+[next](/new-testament/rom/rom-2.html)
 
 1 _I am Paul, a servant of Jesus Christ. He called me to be an apostle and to tell Gods good news._
 

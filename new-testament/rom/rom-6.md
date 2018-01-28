@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rom](../rom) 6
+title: [Rom](/new-testament/rom) 6
 ---
 
-# [Rom](../rom) 6
+# [Rom](/new-testament/rom) 6
 
 [New Testament](/new-testament)
 
 
-[prev](rom-5.html)
+[prev](/new-testament/rom/rom-5.html)
 
 
-[next](rom-7.html)
+[next](/new-testament/rom/rom-7.html)
 
 1 _What shall we say then? Shall we keep on doing wrong things so that God will be more kind to us?_
 

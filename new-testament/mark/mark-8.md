@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Mark](../mark) 8
+title: [Mark](/new-testament/mark) 8
 ---
 
-# [Mark](../mark) 8
+# [Mark](/new-testament/mark) 8
 
 [New Testament](/new-testament)
 
 
-[prev](mark-7.html)
+[prev](/new-testament/mark/mark-7.html)
 
 
-[next](mark-9.html)
+[next](/new-testament/mark/mark-9.html)
 
 1 _Again at that time many, many people came together. They had nothing to eat. Jesus called his disciples. He said,_
 

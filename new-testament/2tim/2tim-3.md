@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [2Tim](../2tim) 3
+title: [2Tim](/new-testament/2tim) 3
 ---
 
-# [2Tim](../2tim) 3
+# [2Tim](/new-testament/2tim) 3
 
 [New Testament](/new-testament)
 
 
-[prev](2tim-2.html)
+[prev](/new-testament/2tim/2tim-2.html)
 
 
-[next](2tim-4.html)
+[next](/new-testament/2tim/2tim-4.html)
 
 1 _Be sure of this. In the last days hard times will come._
 

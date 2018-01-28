@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 15
+title: [Matt](/new-testament/matt) 15
 ---
 
-# [Matt](../matt) 15
+# [Matt](/new-testament/matt) 15
 
 [New Testament](/new-testament)
 
 
-[prev](matt-14.html)
+[prev](/new-testament/matt/matt-14.html)
 
 
-[next](matt-16.html)
+[next](/new-testament/matt/matt-16.html)
 
 1 _Then some Pharisees and scribes from Jerusalem came to Jesus._
 

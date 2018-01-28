@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [2Cor](../2cor) 7
+title: [2Cor](/new-testament/2cor) 7
 ---
 
-# [2Cor](../2cor) 7
+# [2Cor](/new-testament/2cor) 7
 
 [New Testament](/new-testament)
 
 
-[prev](2cor-6.html)
+[prev](/new-testament/2cor/2cor-6.html)
 
 
-[next](2cor-8.html)
+[next](/new-testament/2cor/2cor-8.html)
 
 1 _My dear people, since God has promised us these things, we should make ourselves clean. We should clean out everything that makes our lives or our spirits dirty. We should try to be altogether holy because we respect God with fear. place in your hearts. We have not done wrong to anyone. We have not hurt anyone. We have not taken anything from anyone._
 

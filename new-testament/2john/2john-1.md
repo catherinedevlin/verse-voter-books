@@ -1,9 +1,9 @@
 ---
 layout: page
-title: [2John](../2john) 1
+title: [2John](/new-testament/2john) 1
 ---
 
-# [2John](../2john) 1
+# [2John](/new-testament/2john) 1
 
 [New Testament](/new-testament)
 

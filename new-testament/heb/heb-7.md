@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Heb](../heb) 7
+title: [Heb](/new-testament/heb) 7
 ---
 
-# [Heb](../heb) 7
+# [Heb](/new-testament/heb) 7
 
 [New Testament](/new-testament)
 
 
-[prev](heb-6.html)
+[prev](/new-testament/heb/heb-6.html)
 
 
-[next](heb-8.html)
+[next](/new-testament/heb/heb-8.html)
 
 1 _Melchizedek was king of the city of Salem. He was a priest of God who is the greatest of all. Melchizedek met Abraham when Abraham came back from killing some bad kings.  And Melchizedek blessed him._
 

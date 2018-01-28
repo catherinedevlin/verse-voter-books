@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Mark](../mark) 3
+title: [Mark](/new-testament/mark) 3
 ---
 
-# [Mark](../mark) 3
+# [Mark](/new-testament/mark) 3
 
 [New Testament](/new-testament)
 
 
-[prev](mark-2.html)
+[prev](/new-testament/mark/mark-2.html)
 
 
-[next](mark-4.html)
+[next](/new-testament/mark/mark-4.html)
 
 [1](https://reddit.com/75o4uk) _Jesus went into the meeting house again. A man was there whose right hand was thin and weak._
 

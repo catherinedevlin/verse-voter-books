@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 26
+title: [Acts](/new-testament/acts) 26
 ---
 
-# [Acts](../acts) 26
+# [Acts](/new-testament/acts) 26
 
 [New Testament](/new-testament)
 
 
-[prev](acts-25.html)
+[prev](/new-testament/acts/acts-25.html)
 
 
-[next](acts-27.html)
+[next](/new-testament/acts/acts-27.html)
 
 1 _Then Agrippa said to Paul, You may speak for yourself. So Paul put out his hand and began to speak._
 

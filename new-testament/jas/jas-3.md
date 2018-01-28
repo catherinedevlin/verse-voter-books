@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Jas](../jas) 3
+title: [Jas](/new-testament/jas) 3
 ---
 
-# [Jas](../jas) 3
+# [Jas](/new-testament/jas) 3
 
 [New Testament](/new-testament)
 
 
-[prev](jas-2.html)
+[prev](/new-testament/jas/jas-2.html)
 
 
-[next](jas-4.html)
+[next](/new-testament/jas/jas-4.html)
 
 1 _My brothers, not many of you should be teachers. You know that we who teach will be punished more than other people._
 

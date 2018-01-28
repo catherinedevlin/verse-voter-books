@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Cor](../1cor) 8
+title: [1Cor](/new-testament/1cor) 8
 ---
 
-# [1Cor](../1cor) 8
+# [1Cor](/new-testament/1cor) 8
 
 [New Testament](/new-testament)
 
 
-[prev](1cor-7.html)
+[prev](/new-testament/1cor/1cor-7.html)
 
 
-[next](1cor-9.html)
+[next](/new-testament/1cor/1cor-9.html)
 
 1 _Now here is what I say about food given to idols. We all know something about this matter. Yet knowledge makes us proud. Love is the real teacher._
 

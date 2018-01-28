@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Eph](../eph) 5
+title: [Eph](/new-testament/eph) 5
 ---
 
-# [Eph](../eph) 5
+# [Eph](/new-testament/eph) 5
 
 [New Testament](/new-testament)
 
 
-[prev](eph-4.html)
+[prev](/new-testament/eph/eph-4.html)
 
 
-[next](eph-6.html)
+[next](/new-testament/eph/eph-6.html)
 
 1 _So try to be like God, because you are his own dear children._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 8
+title: [Luke](/new-testament/luke) 8
 ---
 
-# [Luke](../luke) 8
+# [Luke](/new-testament/luke) 8
 
 [New Testament](/new-testament)
 
 
-[prev](luke-7.html)
+[prev](/new-testament/luke/luke-7.html)
 
 
-[next](luke-9.html)
+[next](/new-testament/luke/luke-9.html)
 
 1 _Soon after this, Jesus went through the cities and towns. He told the people Gods word about the good news of the kingdom of God. The twelve disciples were with him._
 

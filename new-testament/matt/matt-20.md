@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 20
+title: [Matt](/new-testament/matt) 20
 ---
 
-# [Matt](../matt) 20
+# [Matt](/new-testament/matt) 20
 
 [New Testament](/new-testament)
 
 
-[prev](matt-19.html)
+[prev](/new-testament/matt/matt-19.html)
 
 
-[next](matt-21.html)
+[next](/new-testament/matt/matt-21.html)
 
 1 _The kingdom of heaven is like this. A man owned a farm. Early in the morning he went out to look for men to work on his farm._
 

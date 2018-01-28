@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Heb](../heb) 9
+title: [Heb](/new-testament/heb) 9
 ---
 
-# [Heb](../heb) 9
+# [Heb](/new-testament/heb) 9
 
 [New Testament](/new-testament)
 
 
-[prev](heb-8.html)
+[prev](/new-testament/heb/heb-8.html)
 
 
-[next](heb-10.html)
+[next](/new-testament/heb/heb-10.html)
 
 1 _The first agreement had laws about worship. And it had a holy place on earth where the agreement was kept._
 

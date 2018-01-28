@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Luke](../luke) 1
+title: [Luke](/new-testament/luke) 1
 ---
 
-# [Luke](../luke) 1
+# [Luke](/new-testament/luke) 1
 
 [New Testament](/new-testament)
 
 
-[next](luke-2.html)
+[next](/new-testament/luke/luke-2.html)
 
 [1](https://reddit.com/75o4uq) _Many people have tried already to write down the things that have happened among us._
 

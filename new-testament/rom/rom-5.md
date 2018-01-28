@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rom](../rom) 5
+title: [Rom](/new-testament/rom) 5
 ---
 
-# [Rom](../rom) 5
+# [Rom](/new-testament/rom) 5
 
 [New Testament](/new-testament)
 
 
-[prev](rom-4.html)
+[prev](/new-testament/rom/rom-4.html)
 
 
-[next](rom-6.html)
+[next](/new-testament/rom/rom-6.html)
 
 1 _We are made good people and put right with God when we believe in Jesus Christ. So now we have peace with God because of what our Lord Jesus Christ did._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Cor](../1cor) 2
+title: [1Cor](/new-testament/1cor) 2
 ---
 
-# [1Cor](../1cor) 2
+# [1Cor](/new-testament/1cor) 2
 
 [New Testament](/new-testament)
 
 
-[prev](1cor-1.html)
+[prev](/new-testament/1cor/1cor-1.html)
 
 
-[next](1cor-3.html)
+[next](/new-testament/1cor/1cor-3.html)
 
 1 _So, my brothers, when I came to you, I did not come to tell you Gods message in big or wise words._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 13
+title: [John](/new-testament/john) 13
 ---
 
-# [John](../john) 13
+# [John](/new-testament/john) 13
 
 [New Testament](/new-testament)
 
 
-[prev](john-12.html)
+[prev](/new-testament/john/john-12.html)
 
 
-[next](john-14.html)
+[next](/new-testament/john/john-14.html)
 
 1 _Before the Passover Feast had started, Jesus saw that the time had come for him to leave this world. The time had come for him to go back to his Father. He loved his own people who were in the world. And he loved them the same way right to the end._
 

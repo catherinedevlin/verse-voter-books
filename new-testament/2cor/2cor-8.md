@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [2Cor](../2cor) 8
+title: [2Cor](/new-testament/2cor) 8
 ---
 
-# [2Cor](../2cor) 8
+# [2Cor](/new-testament/2cor) 8
 
 [New Testament](/new-testament)
 
 
-[prev](2cor-7.html)
+[prev](/new-testament/2cor/2cor-7.html)
 
 
-[next](2cor-9.html)
+[next](/new-testament/2cor/2cor-9.html)
 
 1 _My brothers, let me tell you how God has blessed the churches in Macedonia._
 

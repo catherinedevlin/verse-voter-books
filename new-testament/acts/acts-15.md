@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 15
+title: [Acts](/new-testament/acts) 15
 ---
 
-# [Acts](../acts) 15
+# [Acts](/new-testament/acts) 15
 
 [New Testament](/new-testament)
 
 
-[prev](acts-14.html)
+[prev](/new-testament/acts/acts-14.html)
 
 
-[next](acts-16.html)
+[next](/new-testament/acts/acts-16.html)
 
 1 _Some men came from Judea and taught the Christian brothers. They said, You must be circumcised with the mark made on your body in the way Moses taught us. If you are not circumcised you cannot be saved._
 

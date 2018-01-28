@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 4
+title: [Acts](/new-testament/acts) 4
 ---
 
-# [Acts](../acts) 4
+# [Acts](/new-testament/acts) 4
 
 [New Testament](/new-testament)
 
 
-[prev](acts-3.html)
+[prev](/new-testament/acts/acts-3.html)
 
 
-[next](acts-5.html)
+[next](/new-testament/acts/acts-5.html)
 
 1 _Peter and John were talking to the people. The priests, and the captain of the temple, and the Sadducees came to them._
 

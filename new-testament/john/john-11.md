@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 11
+title: [John](/new-testament/john) 11
 ---
 
-# [John](../john) 11
+# [John](/new-testament/john) 11
 
 [New Testament](/new-testament)
 
 
-[prev](john-10.html)
+[prev](/new-testament/john/john-10.html)
 
 
-[next](john-12.html)
+[next](/new-testament/john/john-12.html)
 
 1 _A man named Lazarus was sick. He lived at Bethany, the home of Mary and her sister Martha._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 5
+title: [Matt](/new-testament/matt) 5
 ---
 
-# [Matt](../matt) 5
+# [Matt](/new-testament/matt) 5
 
 [New Testament](/new-testament)
 
 
-[prev](matt-4.html)
+[prev](/new-testament/matt/matt-4.html)
 
 
-[next](matt-6.html)
+[next](/new-testament/matt/matt-6.html)
 
 1 _When Jesus saw the many people, he went up on a hill. He sat down and his disciples came to him._
 

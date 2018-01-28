@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Jas](../jas) 5
+title: [Jas](/new-testament/jas) 5
 ---
 
-# [Jas](../jas) 5
+# [Jas](/new-testament/jas) 5
 
 [New Testament](/new-testament)
 
 
-[prev](jas-4.html)
+[prev](/new-testament/jas/jas-4.html)
 
 1 _Rich people, listen to me! Cry loud and long because of the troubles you will have._
 

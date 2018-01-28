@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1John](../1john) 4
+title: [1John](/new-testament/1john) 4
 ---
 
-# [1John](../1john) 4
+# [1John](/new-testament/1john) 4
 
 [New Testament](/new-testament)
 
 
-[prev](1john-3.html)
+[prev](/new-testament/1john/1john-3.html)
 
 
-[next](1john-5.html)
+[next](/new-testament/1john/1john-5.html)
 
 1 _My dear brothers, do not trust every spirit. But test the spirits to see if they belong to God. There are many prophets who are not true who have gone out into the world._
 

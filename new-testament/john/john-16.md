@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 16
+title: [John](/new-testament/john) 16
 ---
 
-# [John](../john) 16
+# [John](/new-testament/john) 16
 
 [New Testament](/new-testament)
 
 
-[prev](john-15.html)
+[prev](/new-testament/john/john-15.html)
 
 
-[next](john-17.html)
+[next](/new-testament/john/john-17.html)
 
 1 _I have told you these things so that you will not turn back._
 

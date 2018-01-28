@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Heb](../heb) 13
+title: [Heb](/new-testament/heb) 13
 ---
 
-# [Heb](../heb) 13
+# [Heb](/new-testament/heb) 13
 
 [New Testament](/new-testament)
 
 
-[prev](heb-12.html)
+[prev](/new-testament/heb/heb-12.html)
 
 1 _Keep on loving your Christian brothers._
 

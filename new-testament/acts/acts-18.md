@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 18
+title: [Acts](/new-testament/acts) 18
 ---
 
-# [Acts](../acts) 18
+# [Acts](/new-testament/acts) 18
 
 [New Testament](/new-testament)
 
 
-[prev](acts-17.html)
+[prev](/new-testament/acts/acts-17.html)
 
 
-[next](acts-19.html)
+[next](/new-testament/acts/acts-19.html)
 
 1 _After this Paul left Athens and went to the city of Corinth._
 

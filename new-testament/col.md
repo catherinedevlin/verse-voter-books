@@ -9,12 +9,12 @@ title: Col
 [New Testament](/new-testament)
 
 
-[prev: Phil](../phil)
+[prev: Phil](/new-testament/phil)
 
 
-[next: 1Thess](../1thess)
+[next: 1Thess](/new-testament/1thess)
 
-- [1](col-1.html)
-- [2](col-2.html)
-- [3](col-3.html)
-- [4](col-4.html)
+- [1](/new-testament/col/col-1.html)
+- [2](/new-testament/col/col-2.html)
+- [3](/new-testament/col/col-3.html)
+- [4](/new-testament/col/col-4.html)

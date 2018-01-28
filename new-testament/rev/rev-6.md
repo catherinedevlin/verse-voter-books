@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 6
+title: [Rev](/new-testament/rev) 6
 ---
 
-# [Rev](../rev) 6
+# [Rev](/new-testament/rev) 6
 
 [New Testament](/new-testament)
 
 
-[prev](rev-5.html)
+[prev](/new-testament/rev/rev-5.html)
 
 
-[next](rev-7.html)
+[next](/new-testament/rev/rev-7.html)
 
 1 _I saw the Lamb open one of the seven locks. I heard the voice of one of the four living beings call, Come! It sounded like thunder._
 

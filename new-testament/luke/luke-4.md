@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 4
+title: [Luke](/new-testament/luke) 4
 ---
 
-# [Luke](../luke) 4
+# [Luke](/new-testament/luke) 4
 
 [New Testament](/new-testament)
 
 
-[prev](luke-3.html)
+[prev](/new-testament/luke/luke-3.html)
 
 
-[next](luke-5.html)
+[next](/new-testament/luke/luke-5.html)
 
 1 _Jesus was full of the Holy Spirit. He left the Jordan River, and the Spirit led him into the desert for forty days._
 

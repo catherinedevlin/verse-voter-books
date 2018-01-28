@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [2Tim](../2tim) 2
+title: [2Tim](/new-testament/2tim) 2
 ---
 
-# [2Tim](../2tim) 2
+# [2Tim](/new-testament/2tim) 2
 
 [New Testament](/new-testament)
 
 
-[prev](2tim-1.html)
+[prev](/new-testament/2tim/2tim-1.html)
 
 
-[next](2tim-3.html)
+[next](/new-testament/2tim/2tim-3.html)
 
 1 _So, my son Timothy, be strong. Christ Jesus has blessed you so that you can be strong._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 12
+title: [Matt](/new-testament/matt) 12
 ---
 
-# [Matt](../matt) 12
+# [Matt](/new-testament/matt) 12
 
 [New Testament](/new-testament)
 
 
-[prev](matt-11.html)
+[prev](/new-testament/matt/matt-11.html)
 
 
-[next](matt-13.html)
+[next](/new-testament/matt/matt-13.html)
 
 1 _About that time, Jesus was walking through the grain fields on a Sabbath day. His disciples were hungry. They began to pick some of the grain and to eat it._
 

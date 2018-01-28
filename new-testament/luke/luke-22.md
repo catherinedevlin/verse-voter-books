@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 22
+title: [Luke](/new-testament/luke) 22
 ---
 
-# [Luke](../luke) 22
+# [Luke](/new-testament/luke) 22
 
 [New Testament](/new-testament)
 
 
-[prev](luke-21.html)
+[prev](/new-testament/luke/luke-21.html)
 
 
-[next](luke-23.html)
+[next](/new-testament/luke/luke-23.html)
 
 1 _It was near the time for the feast with bread that has no yeast in it. This is called the Passover Feast._
 

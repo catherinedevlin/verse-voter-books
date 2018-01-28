@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 22
+title: [Acts](/new-testament/acts) 22
 ---
 
-# [Acts](../acts) 22
+# [Acts](/new-testament/acts) 22
 
 [New Testament](/new-testament)
 
 
-[prev](acts-21.html)
+[prev](/new-testament/acts/acts-21.html)
 
 
-[next](acts-23.html)
+[next](/new-testament/acts/acts-23.html)
 
 1 _Paul said, Men, brothers, and fathers, listen while I tell you my side of this matter._
 

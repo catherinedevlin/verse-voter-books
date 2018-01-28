@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 19
+title: [Luke](/new-testament/luke) 19
 ---
 
-# [Luke](../luke) 19
+# [Luke](/new-testament/luke) 19
 
 [New Testament](/new-testament)
 
 
-[prev](luke-18.html)
+[prev](/new-testament/luke/luke-18.html)
 
 
-[next](luke-20.html)
+[next](/new-testament/luke/luke-20.html)
 
 1 _Jesus came to the city of Jericho and was passing through it._
 

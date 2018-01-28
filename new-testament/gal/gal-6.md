@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Gal](../gal) 6
+title: [Gal](/new-testament/gal) 6
 ---
 
-# [Gal](../gal) 6
+# [Gal](/new-testament/gal) 6
 
 [New Testament](/new-testament)
 
 
-[prev](gal-5.html)
+[prev](/new-testament/gal/gal-5.html)
 
 1 _My brothers, perhaps a man has done something wrong. If so, you who are strong in the Spirit must help him to do the right thing again. Help him in a gentle way. Take care yourself, that you are not tried and will want to do wrong._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 24
+title: [Matt](/new-testament/matt) 24
 ---
 
-# [Matt](../matt) 24
+# [Matt](/new-testament/matt) 24
 
 [New Testament](/new-testament)
 
 
-[prev](matt-23.html)
+[prev](/new-testament/matt/matt-23.html)
 
 
-[next](matt-25.html)
+[next](/new-testament/matt/matt-25.html)
 
 1 _Jesus left the temple and was going away. His disciples came to him. They wanted to show him the different buildings that were a part of the temple._
 

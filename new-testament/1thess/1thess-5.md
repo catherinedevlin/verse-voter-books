@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [1Thess](../1thess) 5
+title: [1Thess](/new-testament/1thess) 5
 ---
 
-# [1Thess](../1thess) 5
+# [1Thess](/new-testament/1thess) 5
 
 [New Testament](/new-testament)
 
 
-[prev](1thess-4.html)
+[prev](/new-testament/1thess/1thess-4.html)
 
 1 _My brothers, you do not need anyone to write to you about the day or the year when these things will happen._
 

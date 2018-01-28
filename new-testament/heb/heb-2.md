@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Heb](../heb) 2
+title: [Heb](/new-testament/heb) 2
 ---
 
-# [Heb](../heb) 2
+# [Heb](/new-testament/heb) 2
 
 [New Testament](/new-testament)
 
 
-[prev](heb-1.html)
+[prev](/new-testament/heb/heb-1.html)
 
 
-[next](heb-3.html)
+[next](/new-testament/heb/heb-3.html)
 
 1 _That is why we must listen very carefully to the things we have heard. We must never forget them._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 7
+title: [Luke](/new-testament/luke) 7
 ---
 
-# [Luke](../luke) 7
+# [Luke](/new-testament/luke) 7
 
 [New Testament](/new-testament)
 
 
-[prev](luke-6.html)
+[prev](/new-testament/luke/luke-6.html)
 
 
-[next](luke-8.html)
+[next](/new-testament/luke/luke-8.html)
 
 1 _Jesus finished saying all these things for the people to hear. Then he went to Capernaum._
 

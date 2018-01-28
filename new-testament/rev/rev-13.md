@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 13
+title: [Rev](/new-testament/rev) 13
 ---
 
-# [Rev](../rev) 13
+# [Rev](/new-testament/rev) 13
 
 [New Testament](/new-testament)
 
 
-[prev](rev-12.html)
+[prev](/new-testament/rev/rev-12.html)
 
 
-[next](rev-14.html)
+[next](/new-testament/rev/rev-14.html)
 
 1 _Then I stood on the sand by the sea. I saw a wild animal come up out of the sea. The beast had seven heads and ten horns. On its horns were ten big crowns. On its heads it had names that did not respect God._
 

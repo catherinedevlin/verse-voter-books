@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Gal](../gal) 1
+title: [Gal](/new-testament/gal) 1
 ---
 
-# [Gal](../gal) 1
+# [Gal](/new-testament/gal) 1
 
 [New Testament](/new-testament)
 
 
-[next](gal-2.html)
+[next](/new-testament/gal/gal-2.html)
 
 1 _I am Paul the apostle, a messenger from God. Men did not call me to be an apostle. Men did not make me an apostle. Jesus Christ and God the Father made me an apostle. It was the same God the Father who raised Jesus from death._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Eph](../eph) 4
+title: [Eph](/new-testament/eph) 4
 ---
 
-# [Eph](../eph) 4
+# [Eph](/new-testament/eph) 4
 
 [New Testament](/new-testament)
 
 
-[prev](eph-3.html)
+[prev](/new-testament/eph/eph-3.html)
 
 
-[next](eph-5.html)
+[next](/new-testament/eph/eph-5.html)
 
 1 _I am a prisoner who belongs to the Lord. I beg you, live the way people should live who have been called by God._
 

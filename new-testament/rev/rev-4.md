@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 4
+title: [Rev](/new-testament/rev) 4
 ---
 
-# [Rev](../rev) 4
+# [Rev](/new-testament/rev) 4
 
 [New Testament](/new-testament)
 
 
-[prev](rev-3.html)
+[prev](/new-testament/rev/rev-3.html)
 
 
-[next](rev-5.html)
+[next](/new-testament/rev/rev-5.html)
 
 1 _After this, I looked and saw a door open in heaven. I heard the same voice that I had heard before. It was like the sound of a horn or trumpet. It said, Come up here. I will show you the things that must happen after this._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Cor](../1cor) 9
+title: [1Cor](/new-testament/1cor) 9
 ---
 
-# [1Cor](../1cor) 9
+# [1Cor](/new-testament/1cor) 9
 
 [New Testament](/new-testament)
 
 
-[prev](1cor-8.html)
+[prev](/new-testament/1cor/1cor-8.html)
 
 
-[next](1cor-10.html)
+[next](/new-testament/1cor/1cor-10.html)
 
 1 _Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you people not proof of the work I do for the Lord?_
 

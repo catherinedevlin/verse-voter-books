@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [John](../john) 1
+title: [John](/new-testament/john) 1
 ---
 
-# [John](../john) 1
+# [John](/new-testament/john) 1
 
 [New Testament](/new-testament)
 
 
-[next](john-2.html)
+[next](/new-testament/john/john-2.html)
 
 1 _The Word already was, way back before anything began to be. The Word and God were together. The Word was God._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Mark](../mark) 9
+title: [Mark](/new-testament/mark) 9
 ---
 
-# [Mark](../mark) 9
+# [Mark](/new-testament/mark) 9
 
 [New Testament](/new-testament)
 
 
-[prev](mark-8.html)
+[prev](/new-testament/mark/mark-8.html)
 
 
-[next](mark-10.html)
+[next](/new-testament/mark/mark-10.html)
 
 1 _Jesus said to them, I tell you the truth. Some people are standing here who will not die before they see the kingdom of God come with power._
 

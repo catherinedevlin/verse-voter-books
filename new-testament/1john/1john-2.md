@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1John](../1john) 2
+title: [1John](/new-testament/1john) 2
 ---
 
-# [1John](../1john) 2
+# [1John](/new-testament/1john) 2
 
 [New Testament](/new-testament)
 
 
-[prev](1john-1.html)
+[prev](/new-testament/1john/1john-1.html)
 
 
-[next](1john-3.html)
+[next](/new-testament/1john/1john-3.html)
 
 1 _My children, I am writing these things to you so that you will not do wrong things. But if anyone does something wrong, we have a Friend to help us. He speaks to God for us. He is Jesus Christ who does what is right._
 

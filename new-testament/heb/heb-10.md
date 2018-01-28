@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Heb](../heb) 10
+title: [Heb](/new-testament/heb) 10
 ---
 
-# [Heb](../heb) 10
+# [Heb](/new-testament/heb) 10
 
 [New Testament](/new-testament)
 
 
-[prev](heb-9.html)
+[prev](/new-testament/heb/heb-9.html)
 
 
-[next](heb-11.html)
+[next](/new-testament/heb/heb-11.html)
 
 1 _The law can show only a little about the good things that are coming. It cannot show the good things themselves. People come to worship God. But the law can never make them all right by the same sacrifices that are brought every year._
 

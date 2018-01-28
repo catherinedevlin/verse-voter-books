@@ -9,14 +9,14 @@ title: Eph
 [New Testament](/new-testament)
 
 
-[prev: Gal](../gal)
+[prev: Gal](/new-testament/gal)
 
 
-[next: Phil](../phil)
+[next: Phil](/new-testament/phil)
 
-- [1](eph-1.html)
-- [2](eph-2.html)
-- [3](eph-3.html)
-- [4](eph-4.html)
-- [5](eph-5.html)
-- [6](eph-6.html)
+- [1](/new-testament/eph/eph-1.html)
+- [2](/new-testament/eph/eph-2.html)
+- [3](/new-testament/eph/eph-3.html)
+- [4](/new-testament/eph/eph-4.html)
+- [5](/new-testament/eph/eph-5.html)
+- [6](/new-testament/eph/eph-6.html)

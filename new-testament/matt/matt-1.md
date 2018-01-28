@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Matt](../matt) 1
+title: [Matt](/new-testament/matt) 1
 ---
 
-# [Matt](../matt) 1
+# [Matt](/new-testament/matt) 1
 
 [New Testament](/new-testament)
 
 
-[next](matt-2.html)
+[next](/new-testament/matt/matt-2.html)
 
 [1](https://reddit.com/75o4t9) _Here are the names of the people in the family line from which Jesus Christ came. He came from Davids family. He came from Abrahams family._
 

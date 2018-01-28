@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Acts](../acts) 1
+title: [Acts](/new-testament/acts) 1
 ---
 
-# [Acts](../acts) 1
+# [Acts](/new-testament/acts) 1
 
 [New Testament](/new-testament)
 
 
-[next](acts-2.html)
+[next](/new-testament/acts/acts-2.html)
 
 1 _Theophilus, in the first book I wrote to you, I wrote about all the things Jesus began to do and to teach._
 

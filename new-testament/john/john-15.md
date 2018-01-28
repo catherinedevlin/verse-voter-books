@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 15
+title: [John](/new-testament/john) 15
 ---
 
-# [John](../john) 15
+# [John](/new-testament/john) 15
 
 [New Testament](/new-testament)
 
 
-[prev](john-14.html)
+[prev](/new-testament/john/john-14.html)
 
 
-[next](john-16.html)
+[next](/new-testament/john/john-16.html)
 
 1 _I am the real fruit tree. My Father is the One who takes care of the tree._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Tim](../1tim) 5
+title: [1Tim](/new-testament/1tim) 5
 ---
 
-# [1Tim](../1tim) 5
+# [1Tim](/new-testament/1tim) 5
 
 [New Testament](/new-testament)
 
 
-[prev](1tim-4.html)
+[prev](/new-testament/1tim/1tim-4.html)
 
 
-[next](1tim-6.html)
+[next](/new-testament/1tim/1tim-6.html)
 
 1 _Do not be angry with an older man if he has done something wrong, but talk kindly to him as you would talk to your father. Talk to the young men like brothers._
 

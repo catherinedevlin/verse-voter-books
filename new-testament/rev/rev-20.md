@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 20
+title: [Rev](/new-testament/rev) 20
 ---
 
-# [Rev](../rev) 20
+# [Rev](/new-testament/rev) 20
 
 [New Testament](/new-testament)
 
 
-[prev](rev-19.html)
+[prev](/new-testament/rev/rev-19.html)
 
 
-[next](rev-21.html)
+[next](/new-testament/rev/rev-21.html)
 
 1 _Then I saw an angel coming down from the sky. In his hand he had the key to the big hole that has no bottom, and a big chain._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Mark](../mark) 5
+title: [Mark](/new-testament/mark) 5
 ---
 
-# [Mark](../mark) 5
+# [Mark](/new-testament/mark) 5
 
 [New Testament](/new-testament)
 
 
-[prev](mark-4.html)
+[prev](/new-testament/mark/mark-4.html)
 
 
-[next](mark-6.html)
+[next](/new-testament/mark/mark-6.html)
 
 1 _They came to the other side of the sea, to the country of the Gadarene people._
 

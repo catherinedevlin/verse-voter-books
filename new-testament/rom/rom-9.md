@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rom](../rom) 9
+title: [Rom](/new-testament/rom) 9
 ---
 
-# [Rom](../rom) 9
+# [Rom](/new-testament/rom) 9
 
 [New Testament](/new-testament)
 
 
-[prev](rom-8.html)
+[prev](/new-testament/rom/rom-8.html)
 
 
-[next](rom-10.html)
+[next](/new-testament/rom/rom-10.html)
 
 1 _What I say is true and Christ knows it is. I do not tell a lie. My heart tells me it is true.  And the Holy Spirit knows this._
 

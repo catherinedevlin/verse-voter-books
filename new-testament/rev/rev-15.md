@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 15
+title: [Rev](/new-testament/rev) 15
 ---
 
-# [Rev](../rev) 15
+# [Rev](/new-testament/rev) 15
 
 [New Testament](/new-testament)
 
 
-[prev](rev-14.html)
+[prev](/new-testament/rev/rev-14.html)
 
 
-[next](rev-16.html)
+[next](/new-testament/rev/rev-16.html)
 
 1 _I saw another big and wonderful thing in the sky. I saw seven angels who carried the seven big troubles. They are the last troubles. When these troubles have come, Gods anger is ended. 2I saw something that looked like a sea of glass mixed with fire. And I saw those people who had won the fight against the beast, and its idol, and its mark, and the number of its name. They were standing on the sea of glass and they had the harps of God in their hands._
 

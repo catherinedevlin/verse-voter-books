@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 2
+title: [John](/new-testament/john) 2
 ---
 
-# [John](../john) 2
+# [John](/new-testament/john) 2
 
 [New Testament](/new-testament)
 
 
-[prev](john-1.html)
+[prev](/new-testament/john/john-1.html)
 
 
-[next](john-3.html)
+[next](/new-testament/john/john-3.html)
 
 1 _Two days later there was a wedding in the town of Cana in the country of Galilee. Jesus  mother was there._
 

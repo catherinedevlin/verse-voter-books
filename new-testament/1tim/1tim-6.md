@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [1Tim](../1tim) 6
+title: [1Tim](/new-testament/1tim) 6
 ---
 
-# [1Tim](../1tim) 6
+# [1Tim](/new-testament/1tim) 6
 
 [New Testament](/new-testament)
 
 
-[prev](1tim-5.html)
+[prev](/new-testament/1tim/1tim-5.html)
 
 1 _Servants should respect their bosses in every way. Then people will not say wrong things about Gods name and what we teach._
 

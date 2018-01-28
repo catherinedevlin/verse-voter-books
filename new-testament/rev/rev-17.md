@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 17
+title: [Rev](/new-testament/rev) 17
 ---
 
-# [Rev](../rev) 17
+# [Rev](/new-testament/rev) 17
 
 [New Testament](/new-testament)
 
 
-[prev](rev-16.html)
+[prev](/new-testament/rev/rev-16.html)
 
 
-[next](rev-18.html)
+[next](/new-testament/rev/rev-18.html)
 
 1 _One of the seven angels who had carried the seven bowls came and talked to me. He said, Come, and I will show you the woman who has given herself over to wrong ways of using sex. She is sitting over many waters. I will show you how she will be punished._
 

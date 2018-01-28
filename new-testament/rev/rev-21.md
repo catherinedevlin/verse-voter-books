@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 21
+title: [Rev](/new-testament/rev) 21
 ---
 
-# [Rev](../rev) 21
+# [Rev](/new-testament/rev) 21
 
 [New Testament](/new-testament)
 
 
-[prev](rev-20.html)
+[prev](/new-testament/rev/rev-20.html)
 
 
-[next](rev-22.html)
+[next](/new-testament/rev/rev-22.html)
 
 1 _Then I saw a new heaven and a new earth. The first heaven and the first earth had gone away. There was no sea any more._
 

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Phil](../phil) 1
+title: [Phil](/new-testament/phil) 1
 ---
 
-# [Phil](../phil) 1
+# [Phil](/new-testament/phil) 1
 
 [New Testament](/new-testament)
 
 
-[next](phil-2.html)
+[next](/new-testament/phil/phil-2.html)
 
 1 _We, Paul and Timothy, are servants of Christ Jesus. We send greetings to all of Gods people who belong to Christ Jesus and who live in the city of Philippi. We send greetings to the leaders of the church people and those who have been chosen to help them._
 

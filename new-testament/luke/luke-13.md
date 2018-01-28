@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 13
+title: [Luke](/new-testament/luke) 13
 ---
 
-# [Luke](../luke) 13
+# [Luke](/new-testament/luke) 13
 
 [New Testament](/new-testament)
 
 
-[prev](luke-12.html)
+[prev](/new-testament/luke/luke-12.html)
 
 
-[next](luke-14.html)
+[next](/new-testament/luke/luke-14.html)
 
 1 _Some people were there at that time who told Jesus what Pilate had done. He had killed some of the people of Galilee and put their blood with the blood of their sacrifices to God._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Mark](../mark) 13
+title: [Mark](/new-testament/mark) 13
 ---
 
-# [Mark](../mark) 13
+# [Mark](/new-testament/mark) 13
 
 [New Testament](/new-testament)
 
 
-[prev](mark-12.html)
+[prev](/new-testament/mark/mark-12.html)
 
 
-[next](mark-14.html)
+[next](/new-testament/mark/mark-14.html)
 
 1 _When Jesus was leaving the temple, one of his disciples said, Look Master, see those big stones and the wonderful houses!_
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 16
+title: [Rev](/new-testament/rev) 16
 ---
 
-# [Rev](../rev) 16
+# [Rev](/new-testament/rev) 16
 
 [New Testament](/new-testament)
 
 
-[prev](rev-15.html)
+[prev](/new-testament/rev/rev-15.html)
 
 
-[next](rev-17.html)
+[next](/new-testament/rev/rev-17.html)
 
 1 _I heard a loud voice coming from the temple. It said to the seven angels, Go and pour the seven bowls of Gods anger on the earth._
 

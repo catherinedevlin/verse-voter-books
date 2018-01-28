@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 12
+title: [John](/new-testament/john) 12
 ---
 
-# [John](../john) 12
+# [John](/new-testament/john) 12
 
 [New Testament](/new-testament)
 
 
-[prev](john-11.html)
+[prev](/new-testament/john/john-11.html)
 
 
-[next](john-13.html)
+[next](/new-testament/john/john-13.html)
 
 1 _Six days before the Passover Feast Jesus came to Bethany where Lazarus lived. This was the Lazarus that Jesus had raised from death._
 

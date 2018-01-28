@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 17
+title: [Matt](/new-testament/matt) 17
 ---
 
-# [Matt](../matt) 17
+# [Matt](/new-testament/matt) 17
 
 [New Testament](/new-testament)
 
 
-[prev](matt-16.html)
+[prev](/new-testament/matt/matt-16.html)
 
 
-[next](matt-18.html)
+[next](/new-testament/matt/matt-18.html)
 
 1 _Six days after this, Jesus took Peter, James, and his brother John with him. He led them up a hill by themselves._
 

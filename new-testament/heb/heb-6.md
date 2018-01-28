@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Heb](../heb) 6
+title: [Heb](/new-testament/heb) 6
 ---
 
-# [Heb](../heb) 6
+# [Heb](/new-testament/heb) 6
 
 [New Testament](/new-testament)
 
 
-[prev](heb-5.html)
+[prev](/new-testament/heb/heb-5.html)
 
 
-[next](heb-7.html)
+[next](/new-testament/heb/heb-7.html)
 
 1 _So, let us leave behind the first teachings about Christ. And let us go on to things that are grown up. We must not go back to the beginning again and talk about turning away from doing things that bring death to us. We must not go back again and talk about believing in God. Let us go forward._
 

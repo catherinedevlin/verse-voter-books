@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 27
+title: [Matt](/new-testament/matt) 27
 ---
 
-# [Matt](../matt) 27
+# [Matt](/new-testament/matt) 27
 
 [New Testament](/new-testament)
 
 
-[prev](matt-26.html)
+[prev](/new-testament/matt/matt-26.html)
 
 
-[next](matt-28.html)
+[next](/new-testament/matt/matt-28.html)
 
 1 _When it was morning, all the chief priests and the leaders of the people made a plan against Jesus. They wanted to kill him._
 

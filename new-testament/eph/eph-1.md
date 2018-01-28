@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Eph](../eph) 1
+title: [Eph](/new-testament/eph) 1
 ---
 
-# [Eph](../eph) 1
+# [Eph](/new-testament/eph) 1
 
 [New Testament](/new-testament)
 
 
-[next](eph-2.html)
+[next](/new-testament/eph/eph-2.html)
 
 1 _I am Paul, an apostle of Jesus Christ. It was Gods wish for me to be his messenger. I send greetings to Gods people in the city of Ephesus, to those who believe in Christ Jesus._
 

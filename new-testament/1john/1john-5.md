@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [1John](../1john) 5
+title: [1John](/new-testament/1john) 5
 ---
 
-# [1John](../1john) 5
+# [1John](/new-testament/1john) 5
 
 [New Testament](/new-testament)
 
 
-[prev](1john-4.html)
+[prev](/new-testament/1john/1john-4.html)
 
 1 _Everyone who believes that Jesus is the Christ is Gods child. And everyone who loves the Father loves his child._
 

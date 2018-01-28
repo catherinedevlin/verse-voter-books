@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 8
+title: [Rev](/new-testament/rev) 8
 ---
 
-# [Rev](../rev) 8
+# [Rev](/new-testament/rev) 8
 
 [New Testament](/new-testament)
 
 
-[prev](rev-7.html)
+[prev](/new-testament/rev/rev-7.html)
 
 
-[next](rev-9.html)
+[next](/new-testament/rev/rev-9.html)
 
 1 _When the Lamb opened the seventh lock, all was quiet in heaven for about a half hour._
 

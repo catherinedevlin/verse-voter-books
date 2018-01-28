@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 7
+title: [Rev](/new-testament/rev) 7
 ---
 
-# [Rev](../rev) 7
+# [Rev](/new-testament/rev) 7
 
 [New Testament](/new-testament)
 
 
-[prev](rev-6.html)
+[prev](/new-testament/rev/rev-6.html)
 
 
-[next](rev-8.html)
+[next](/new-testament/rev/rev-8.html)
 
 1 _After this, I saw four angels standing at four different places on the earth. They were holding back the winds coming from every way. They did this so that no wind would blow on the earth, or on the sea, or on any tree._
 

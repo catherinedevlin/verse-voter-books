@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 23
+title: [Matt](/new-testament/matt) 23
 ---
 
-# [Matt](../matt) 23
+# [Matt](/new-testament/matt) 23
 
 [New Testament](/new-testament)
 
 
-[prev](matt-22.html)
+[prev](/new-testament/matt/matt-22.html)
 
 
-[next](matt-24.html)
+[next](/new-testament/matt/matt-24.html)
 
 1 _Then Jesus talked to the people and to his disciples._
 

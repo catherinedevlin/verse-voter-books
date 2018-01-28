@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rom](../rom) 10
+title: [Rom](/new-testament/rom) 10
 ---
 
-# [Rom](../rom) 10
+# [Rom](/new-testament/rom) 10
 
 [New Testament](/new-testament)
 
 
-[prev](rom-9.html)
+[prev](/new-testament/rom/rom-9.html)
 
 
-[next](rom-11.html)
+[next](/new-testament/rom/rom-11.html)
 
 1 _My brothers, with all my heart I want the Jews to be saved. And I ask God to save them._
 

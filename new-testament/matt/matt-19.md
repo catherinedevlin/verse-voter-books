@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 19
+title: [Matt](/new-testament/matt) 19
 ---
 
-# [Matt](../matt) 19
+# [Matt](/new-testament/matt) 19
 
 [New Testament](/new-testament)
 
 
-[prev](matt-18.html)
+[prev](/new-testament/matt/matt-18.html)
 
 
-[next](matt-20.html)
+[next](/new-testament/matt/matt-20.html)
 
 1 _When Jesus had finished this talk, he left Galilee. He went away to the part of Judea that is on the other side of the Jordan River._
 

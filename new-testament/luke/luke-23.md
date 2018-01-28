@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 23
+title: [Luke](/new-testament/luke) 23
 ---
 
-# [Luke](../luke) 23
+# [Luke](/new-testament/luke) 23
 
 [New Testament](/new-testament)
 
 
-[prev](luke-22.html)
+[prev](/new-testament/luke/luke-22.html)
 
 
-[next](luke-24.html)
+[next](/new-testament/luke/luke-24.html)
 
 1 _Then all the people got up and took Jesus to Pilate._
 

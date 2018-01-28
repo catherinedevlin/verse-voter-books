@@ -9,9 +9,9 @@ title: 2John
 [New Testament](/new-testament)
 
 
-[prev: 1John](../1john)
+[prev: 1John](/new-testament/1john)
 
 
-[next: 3John](../3john)
+[next: 3John](/new-testament/3john)
 
-- [1](2john-1.html)
+- [1](/new-testament/2john/2john-1.html)

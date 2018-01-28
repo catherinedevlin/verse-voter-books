@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Mark](../mark) 16
+title: [Mark](/new-testament/mark) 16
 ---
 
-# [Mark](../mark) 16
+# [Mark](/new-testament/mark) 16
 
 [New Testament](/new-testament)
 
 
-[prev](mark-15.html)
+[prev](/new-testament/mark/mark-15.html)
 
 1 _The Sabbath day was past. Mary Magdalene, Mary the mother of James, and Salome came to the grave. They brought spices that smelled very nice to put on the body of Jesus._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 19
+title: [John](/new-testament/john) 19
 ---
 
-# [John](../john) 19
+# [John](/new-testament/john) 19
 
 [New Testament](/new-testament)
 
 
-[prev](john-18.html)
+[prev](/new-testament/john/john-18.html)
 
 
-[next](john-20.html)
+[next](/new-testament/john/john-20.html)
 
 1 _Pilate took Jesus and had him beaten._
 

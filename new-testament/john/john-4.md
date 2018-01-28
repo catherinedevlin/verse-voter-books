@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 4
+title: [John](/new-testament/john) 4
 ---
 
-# [John](../john) 4
+# [John](/new-testament/john) 4
 
 [New Testament](/new-testament)
 
 
-[prev](john-3.html)
+[prev](/new-testament/john/john-3.html)
 
 
-[next](john-5.html)
+[next](/new-testament/john/john-5.html)
 
 1 _The Pharisees heard that Jesus was getting people to follow him and was baptizing them.  (Jesus disciples baptized them, not he himself.) He now had more followers than John._
 

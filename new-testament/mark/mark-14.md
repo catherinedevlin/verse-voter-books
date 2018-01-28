@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Mark](../mark) 14
+title: [Mark](/new-testament/mark) 14
 ---
 
-# [Mark](../mark) 14
+# [Mark](/new-testament/mark) 14
 
 [New Testament](/new-testament)
 
 
-[prev](mark-13.html)
+[prev](/new-testament/mark/mark-13.html)
 
 
-[next](mark-15.html)
+[next](/new-testament/mark/mark-15.html)
 
 1 _The Passover Feast and the feast with bread that has no yeast in it was two days later.  The chief priests and the scribes planned how to catch Jesus by some trick. They wanted to kill him._
 

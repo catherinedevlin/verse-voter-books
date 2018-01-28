@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Mark](../mark) 7
+title: [Mark](/new-testament/mark) 7
 ---
 
-# [Mark](../mark) 7
+# [Mark](/new-testament/mark) 7
 
 [New Testament](/new-testament)
 
 
-[prev](mark-6.html)
+[prev](/new-testament/mark/mark-6.html)
 
 
-[next](mark-8.html)
+[next](/new-testament/mark/mark-8.html)
 
 1 _Then some Pharisees and scribes from Jerusalem came to Jesus._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Mark](../mark) 12
+title: [Mark](/new-testament/mark) 12
 ---
 
-# [Mark](../mark) 12
+# [Mark](/new-testament/mark) 12
 
 [New Testament](/new-testament)
 
 
-[prev](mark-11.html)
+[prev](/new-testament/mark/mark-11.html)
 
 
-[next](mark-13.html)
+[next](/new-testament/mark/mark-13.html)
 
 1 _Jesus then began to speak to the disciples in stories. A man planted a farm of vines for growing fruit called grapes. He put a fence of small trees around it. He dug a place to press the juice from the fruit. He built a high house from which men could watch over the farm. Then he let some men pay to use it and went to a country far away._
 

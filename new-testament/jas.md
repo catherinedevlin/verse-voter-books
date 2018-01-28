@@ -9,13 +9,13 @@ title: Jas
 [New Testament](/new-testament)
 
 
-[prev: Heb](../heb)
+[prev: Heb](/new-testament/heb)
 
 
-[next: 1Pet](../1pet)
+[next: 1Pet](/new-testament/1pet)
 
-- [1](jas-1.html)
-- [2](jas-2.html)
-- [3](jas-3.html)
-- [4](jas-4.html)
-- [5](jas-5.html)
+- [1](/new-testament/jas/jas-1.html)
+- [2](/new-testament/jas/jas-2.html)
+- [3](/new-testament/jas/jas-3.html)
+- [4](/new-testament/jas/jas-4.html)
+- [5](/new-testament/jas/jas-5.html)

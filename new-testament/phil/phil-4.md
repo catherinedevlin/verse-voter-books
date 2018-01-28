@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Phil](../phil) 4
+title: [Phil](/new-testament/phil) 4
 ---
 
-# [Phil](../phil) 4
+# [Phil](/new-testament/phil) 4
 
 [New Testament](/new-testament)
 
 
-[prev](phil-3.html)
+[prev](/new-testament/phil/phil-3.html)
 
 1 _And so, my brothers, I love you and want very much to be with you. I am very happy about you. And you are like a prize I have won in a race. My dear people, keep on standing firm and strong in the Lord._
 

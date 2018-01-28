@@ -9,9 +9,9 @@ title: 3John
 [New Testament](/new-testament)
 
 
-[prev: 2John](../2john)
+[prev: 2John](/new-testament/2john)
 
 
-[next: Jude](../jude)
+[next: Jude](/new-testament/jude)
 
-- [1](3john-1.html)
+- [1](/new-testament/3john/3john-1.html)

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 8
+title: [Matt](/new-testament/matt) 8
 ---
 
-# [Matt](../matt) 8
+# [Matt](/new-testament/matt) 8
 
 [New Testament](/new-testament)
 
 
-[prev](matt-7.html)
+[prev](/new-testament/matt/matt-7.html)
 
 
-[next](matt-9.html)
+[next](/new-testament/matt/matt-9.html)
 
 1 _When Jesus came down from the hill, many people followed him._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 10
+title: [Matt](/new-testament/matt) 10
 ---
 
-# [Matt](../matt) 10
+# [Matt](/new-testament/matt) 10
 
 [New Testament](/new-testament)
 
 
-[prev](matt-9.html)
+[prev](/new-testament/matt/matt-9.html)
 
 
-[next](matt-11.html)
+[next](/new-testament/matt/matt-11.html)
 
 1 _Jesus called his twelve disciples to him. He gave them power over bad spirits so they could drive them out of people. He gave them power to heal people who were sick or weak in any way._
 

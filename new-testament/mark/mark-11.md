@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Mark](../mark) 11
+title: [Mark](/new-testament/mark) 11
 ---
 
-# [Mark](../mark) 11
+# [Mark](/new-testament/mark) 11
 
 [New Testament](/new-testament)
 
 
-[prev](mark-10.html)
+[prev](/new-testament/mark/mark-10.html)
 
 
-[next](mark-12.html)
+[next](/new-testament/mark/mark-12.html)
 
 1 _They came to Bethphage and Bethany, near Jerusalem by the hill called Olives. Then he sent two of his disciples ahead._
 

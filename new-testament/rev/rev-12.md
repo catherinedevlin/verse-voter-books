@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 12
+title: [Rev](/new-testament/rev) 12
 ---
 
-# [Rev](../rev) 12
+# [Rev](/new-testament/rev) 12
 
 [New Testament](/new-testament)
 
 
-[prev](rev-11.html)
+[prev](/new-testament/rev/rev-11.html)
 
 
-[next](rev-13.html)
+[next](/new-testament/rev/rev-13.html)
 
 1 _I saw a wonderful thing in the sky. A woman was wearing the sun like a dress. She stood on the moon. On her head she had twelve stars in a big ring like a crown. She was going to have a baby._
 

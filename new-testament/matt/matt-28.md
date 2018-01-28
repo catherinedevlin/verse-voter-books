@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Matt](../matt) 28
+title: [Matt](/new-testament/matt) 28
 ---
 
-# [Matt](../matt) 28
+# [Matt](/new-testament/matt) 28
 
 [New Testament](/new-testament)
 
 
-[prev](matt-27.html)
+[prev](/new-testament/matt/matt-27.html)
 
 1 _The Sabbath day was past. Morning light was beginning to shine on the first day of the week. Mary Magdalene and the other Mary went to see the grave._
 

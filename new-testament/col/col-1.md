@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Col](../col) 1
+title: [Col](/new-testament/col) 1
 ---
 
-# [Col](../col) 1
+# [Col](/new-testament/col) 1
 
 [New Testament](/new-testament)
 
 
-[next](col-2.html)
+[next](/new-testament/col/col-2.html)
 
 1 _I am Paul, an apostle of Jesus Christ. God wanted me to be an apostle._
 

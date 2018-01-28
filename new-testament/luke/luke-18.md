@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 18
+title: [Luke](/new-testament/luke) 18
 ---
 
-# [Luke](../luke) 18
+# [Luke](/new-testament/luke) 18
 
 [New Testament](/new-testament)
 
 
-[prev](luke-17.html)
+[prev](/new-testament/luke/luke-17.html)
 
 
-[next](luke-19.html)
+[next](/new-testament/luke/luke-19.html)
 
 1 _Jesus told them a story to teach them that they should keep on talking with God and not give up._
 

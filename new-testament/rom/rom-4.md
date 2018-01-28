@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rom](../rom) 4
+title: [Rom](/new-testament/rom) 4
 ---
 
-# [Rom](../rom) 4
+# [Rom](/new-testament/rom) 4
 
 [New Testament](/new-testament)
 
 
-[prev](rom-3.html)
+[prev](/new-testament/rom/rom-3.html)
 
 
-[next](rom-5.html)
+[next](/new-testament/rom/rom-5.html)
 
 1 _So what shall we say about Abraham? He is the father of our family on earth._
 

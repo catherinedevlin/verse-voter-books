@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 17
+title: [John](/new-testament/john) 17
 ---
 
-# [John](../john) 17
+# [John](/new-testament/john) 17
 
 [New Testament](/new-testament)
 
 
-[prev](john-16.html)
+[prev](/new-testament/john/john-16.html)
 
 
-[next](john-18.html)
+[next](/new-testament/john/john-18.html)
 
 1 _When Jesus had said these things, he looked up to heaven and said, Father, the time has come now. Make your Sons name great, so that your Son may make your name great._
 

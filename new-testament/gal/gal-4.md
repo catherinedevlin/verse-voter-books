@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Gal](../gal) 4
+title: [Gal](/new-testament/gal) 4
 ---
 
-# [Gal](../gal) 4
+# [Gal](/new-testament/gal) 4
 
 [New Testament](/new-testament)
 
 
-[prev](gal-3.html)
+[prev](/new-testament/gal/gal-3.html)
 
 
-[next](gal-5.html)
+[next](/new-testament/gal/gal-5.html)
 
 1 _Here is what I mean. When a man dies, his son is to receive his property. As long as the son is not grown up, he cannot have it. He has no more right than a servant, even though he really owns all the property._
 

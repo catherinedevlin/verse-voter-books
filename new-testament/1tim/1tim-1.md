@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [1Tim](../1tim) 1
+title: [1Tim](/new-testament/1tim) 1
 ---
 
-# [1Tim](../1tim) 1
+# [1Tim](/new-testament/1tim) 1
 
 [New Testament](/new-testament)
 
 
-[next](1tim-2.html)
+[next](/new-testament/1tim/1tim-2.html)
 
 1 _I am Paul. I am an apostle of Christ Jesus. God and Christ Jesus told me to be an apostle.  God is our Saviour, and Christ is the one who gives us hope._
 

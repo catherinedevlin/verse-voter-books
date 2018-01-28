@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Mark](../mark) 6
+title: [Mark](/new-testament/mark) 6
 ---
 
-# [Mark](../mark) 6
+# [Mark](/new-testament/mark) 6
 
 [New Testament](/new-testament)
 
 
-[prev](mark-5.html)
+[prev](/new-testament/mark/mark-5.html)
 
 
-[next](mark-7.html)
+[next](/new-testament/mark/mark-7.html)
 
 1 _Jesus left that place and went back to his home town. His disciples went with him._
 

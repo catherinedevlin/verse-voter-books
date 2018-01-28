@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Gal](../gal) 5
+title: [Gal](/new-testament/gal) 5
 ---
 
-# [Gal](../gal) 5
+# [Gal](/new-testament/gal) 5
 
 [New Testament](/new-testament)
 
 
-[prev](gal-4.html)
+[prev](/new-testament/gal/gal-4.html)
 
 
-[next](gal-6.html)
+[next](/new-testament/gal/gal-6.html)
 
 1 _Christ has made us really free. So, stay free! Do not let yourselves be made slaves again._
 

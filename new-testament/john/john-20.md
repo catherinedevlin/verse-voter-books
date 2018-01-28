@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 20
+title: [John](/new-testament/john) 20
 ---
 
-# [John](../john) 20
+# [John](/new-testament/john) 20
 
 [New Testament](/new-testament)
 
 
-[prev](john-19.html)
+[prev](/new-testament/john/john-19.html)
 
 
-[next](john-21.html)
+[next](/new-testament/john/john-21.html)
 
 1 _Mary Magdalene came to the grave on the first day of the week. It was early in the morning and not very light. She saw that the stone had been taken away from the grave._
 

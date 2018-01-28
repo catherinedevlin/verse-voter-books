@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rom](../rom) 3
+title: [Rom](/new-testament/rom) 3
 ---
 
-# [Rom](../rom) 3
+# [Rom](/new-testament/rom) 3
 
 [New Testament](/new-testament)
 
 
-[prev](rom-2.html)
+[prev](/new-testament/rom/rom-2.html)
 
 
-[next](rom-4.html)
+[next](/new-testament/rom/rom-4.html)
 
 1 _Then what does a Jew have that others do not have? Or what good is it if a person has been circumcised?_
 

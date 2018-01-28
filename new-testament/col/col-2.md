@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Col](../col) 2
+title: [Col](/new-testament/col) 2
 ---
 
-# [Col](../col) 2
+# [Col](/new-testament/col) 2
 
 [New Testament](/new-testament)
 
 
-[prev](col-1.html)
+[prev](/new-testament/col/col-1.html)
 
 
-[next](col-3.html)
+[next](/new-testament/col/col-3.html)
 
 1 _I want you to know how much I care for you and those in the city of Laodicea, and even all those who have never seen me._
 

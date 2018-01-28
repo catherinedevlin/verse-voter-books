@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rom](../rom) 7
+title: [Rom](/new-testament/rom) 7
 ---
 
-# [Rom](../rom) 7
+# [Rom](/new-testament/rom) 7
 
 [New Testament](/new-testament)
 
 
-[prev](rom-6.html)
+[prev](/new-testament/rom/rom-6.html)
 
 
-[next](rom-8.html)
+[next](/new-testament/rom/rom-8.html)
 
 1 _My brothers, I am saying this to you people who know the law. Do you not know that the law is master over a person only while he lives?_
 

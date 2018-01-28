@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Tim](../1tim) 3
+title: [1Tim](/new-testament/1tim) 3
 ---
 
-# [1Tim](../1tim) 3
+# [1Tim](/new-testament/1tim) 3
 
 [New Testament](/new-testament)
 
 
-[prev](1tim-2.html)
+[prev](/new-testament/1tim/1tim-2.html)
 
 
-[next](1tim-4.html)
+[next](/new-testament/1tim/1tim-4.html)
 
 1 _These are true words. If a man wants to be a leader of the church people, he seeks a good thing._
 

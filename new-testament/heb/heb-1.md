@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Heb](../heb) 1
+title: [Heb](/new-testament/heb) 1
 ---
 
-# [Heb](../heb) 1
+# [Heb](/new-testament/heb) 1
 
 [New Testament](/new-testament)
 
 
-[next](heb-2.html)
+[next](/new-testament/heb/heb-2.html)
 
 1 _Long ago, God talked to our fathers through the prophets. He talked many times and in many ways._
 

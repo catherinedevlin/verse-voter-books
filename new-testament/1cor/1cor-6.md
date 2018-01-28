@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Cor](../1cor) 6
+title: [1Cor](/new-testament/1cor) 6
 ---
 
-# [1Cor](../1cor) 6
+# [1Cor](/new-testament/1cor) 6
 
 [New Testament](/new-testament)
 
 
-[prev](1cor-5.html)
+[prev](/new-testament/1cor/1cor-5.html)
 
 
-[next](1cor-7.html)
+[next](/new-testament/1cor/1cor-7.html)
 
 1 _When one of you has some complaint against a Christian brother, why does he take him to be judged by those who are not Christians? Why does he not take him to Gods people?_
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 16
+title: [Luke](/new-testament/luke) 16
 ---
 
-# [Luke](../luke) 16
+# [Luke](/new-testament/luke) 16
 
 [New Testament](/new-testament)
 
 
-[prev](luke-15.html)
+[prev](/new-testament/luke/luke-15.html)
 
 
-[next](luke-17.html)
+[next](/new-testament/luke/luke-17.html)
 
 1 _Jesus also talked to his disciples. He said, A rich man had a manager in charge of his things. People told the rich man that the manager was wasting his things._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 6
+title: [Acts](/new-testament/acts) 6
 ---
 
-# [Acts](../acts) 6
+# [Acts](/new-testament/acts) 6
 
 [New Testament](/new-testament)
 
 
-[prev](acts-5.html)
+[prev](/new-testament/acts/acts-5.html)
 
 
-[next](acts-7.html)
+[next](/new-testament/acts/acts-7.html)
 
 1 _At that time more and more people joined the disciples. Then there was trouble about a certain matter. The Jews who spoke the Greek language complained against the other Jews. They said that each day when the food was being divided, their women whose husbands were dead did not get their part._
 

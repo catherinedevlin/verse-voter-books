@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 8
+title: [John](/new-testament/john) 8
 ---
 
-# [John](../john) 8
+# [John](/new-testament/john) 8
 
 [New Testament](/new-testament)
 
 
-[prev](john-7.html)
+[prev](/new-testament/john/john-7.html)
 
 
-[next](john-9.html)
+[next](/new-testament/john/john-9.html)
 
 1 _Then Jesus went to the hill called the Mount of Olives._
 

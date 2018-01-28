@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1John](../1john) 3
+title: [1John](/new-testament/1john) 3
 ---
 
-# [1John](../1john) 3
+# [1John](/new-testament/1john) 3
 
 [New Testament](/new-testament)
 
 
-[prev](1john-2.html)
+[prev](/new-testament/1john/1john-2.html)
 
 
-[next](1john-4.html)
+[next](/new-testament/1john/1john-4.html)
 
 1 _See how much the Father has loved us! We are called Gods children. It is true, we are Gods children. People in this world did not know him and so they do not know us._
 

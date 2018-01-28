@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Heb](../heb) 3
+title: [Heb](/new-testament/heb) 3
 ---
 
-# [Heb](../heb) 3
+# [Heb](/new-testament/heb) 3
 
 [New Testament](/new-testament)
 
 
-[prev](heb-2.html)
+[prev](/new-testament/heb/heb-2.html)
 
 
-[next](heb-4.html)
+[next](/new-testament/heb/heb-4.html)
 
 1 _My brothers, you are holy. You are also called to go to heaven. Take time to think carefully about Jesus. God sent him. He is the high priest we believe in._
 

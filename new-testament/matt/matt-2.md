@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 2
+title: [Matt](/new-testament/matt) 2
 ---
 
-# [Matt](../matt) 2
+# [Matt](/new-testament/matt) 2
 
 [New Testament](/new-testament)
 
 
-[prev](matt-1.html)
+[prev](/new-testament/matt/matt-1.html)
 
 
-[next](matt-3.html)
+[next](/new-testament/matt/matt-3.html)
 
 [1](https://reddit.com/75o4tk) _Jesus was born in the town of Bethlehem, in the country of Judea. Herod was the king.  After Jesus was born, wise men came from the east to Jerusalem._
 

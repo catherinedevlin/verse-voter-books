@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Heb](../heb) 8
+title: [Heb](/new-testament/heb) 8
 ---
 
-# [Heb](../heb) 8
+# [Heb](/new-testament/heb) 8
 
 [New Testament](/new-testament)
 
 
-[prev](heb-7.html)
+[prev](/new-testament/heb/heb-7.html)
 
 
-[next](heb-9.html)
+[next](/new-testament/heb/heb-9.html)
 
 1 _The real point of what we are saying is this. We now have a high priest who sits beside Gods throne or chief chair in heaven._
 

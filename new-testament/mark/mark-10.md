@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Mark](../mark) 10
+title: [Mark](/new-testament/mark) 10
 ---
 
-# [Mark](../mark) 10
+# [Mark](/new-testament/mark) 10
 
 [New Testament](/new-testament)
 
 
-[prev](mark-9.html)
+[prev](/new-testament/mark/mark-9.html)
 
 
-[next](mark-11.html)
+[next](/new-testament/mark/mark-11.html)
 
 1 _Jesus left that place and went through the country of Judea on the other side of the Jordan river. Many people came to him there again. He taught them as he always did._
 

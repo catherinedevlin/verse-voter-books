@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 20
+title: [Luke](/new-testament/luke) 20
 ---
 
-# [Luke](../luke) 20
+# [Luke](/new-testament/luke) 20
 
 [New Testament](/new-testament)
 
 
-[prev](luke-19.html)
+[prev](/new-testament/luke/luke-19.html)
 
 
-[next](luke-21.html)
+[next](/new-testament/luke/luke-21.html)
 
 1 _One day Jesus was teaching the people in the temple. He was telling them Gods good news. The chief priests and the scribes came to him with the leaders._
 

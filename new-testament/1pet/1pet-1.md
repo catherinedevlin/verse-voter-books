@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [1Pet](../1pet) 1
+title: [1Pet](/new-testament/1pet) 1
 ---
 
-# [1Pet](../1pet) 1
+# [1Pet](/new-testament/1pet) 1
 
 [New Testament](/new-testament)
 
 
-[next](1pet-2.html)
+[next](/new-testament/1pet/1pet-2.html)
 
 1 _I am Peter. I am an apostle of Jesus Christ. I send this letter to Gods chosen people. You are like people on a journey. You live in the countries of Pontus, Galatia, Cappadocia,  Asia, and Bithynia. But you do not belong there._
 

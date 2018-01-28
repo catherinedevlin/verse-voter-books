@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [2Thess](../2thess) 3
+title: [2Thess](/new-testament/2thess) 3
 ---
 
-# [2Thess](../2thess) 3
+# [2Thess](/new-testament/2thess) 3
 
 [New Testament](/new-testament)
 
 
-[prev](2thess-2.html)
+[prev](/new-testament/2thess/2thess-2.html)
 
 1 _My brothers, please talk to God about us. Ask God that the Lords message may reach many people quickly and that they may receive it gladly as you did._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 5
+title: [Rev](/new-testament/rev) 5
 ---
 
-# [Rev](../rev) 5
+# [Rev](/new-testament/rev) 5
 
 [New Testament](/new-testament)
 
 
-[prev](rev-4.html)
+[prev](/new-testament/rev/rev-4.html)
 
 
-[next](rev-6.html)
+[next](/new-testament/rev/rev-6.html)
 
 1 _I saw a book in the right hand of the one who sat on the chief chair. It had writing on the front and the back. It was locked with seven locks._
 

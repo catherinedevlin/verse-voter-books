@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Mark](../mark) 2
+title: [Mark](/new-testament/mark) 2
 ---
 
-# [Mark](../mark) 2
+# [Mark](/new-testament/mark) 2
 
 [New Testament](/new-testament)
 
 
-[prev](mark-1.html)
+[prev](/new-testament/mark/mark-1.html)
 
 
-[next](mark-3.html)
+[next](/new-testament/mark/mark-3.html)
 
 [1](https://reddit.com/75o4ua) _After a few days he came back to Capernaum. People soon heard that he was at home._
 

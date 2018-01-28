@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 4
+title: [Matt](/new-testament/matt) 4
 ---
 
-# [Matt](../matt) 4
+# [Matt](/new-testament/matt) 4
 
 [New Testament](/new-testament)
 
 
-[prev](matt-3.html)
+[prev](/new-testament/matt/matt-3.html)
 
 
-[next](matt-5.html)
+[next](/new-testament/matt/matt-5.html)
 
 1 _Then the Spirit led Jesus into the desert. The devil tried to make Jesus do wrong._
 

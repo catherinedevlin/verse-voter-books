@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 7
+title: [John](/new-testament/john) 7
 ---
 
-# [John](../john) 7
+# [John](/new-testament/john) 7
 
 [New Testament](/new-testament)
 
 
-[prev](john-6.html)
+[prev](/new-testament/john/john-6.html)
 
 
-[next](john-8.html)
+[next](/new-testament/john/john-8.html)
 
 1 _After this, Jesus travelled around in Galilee. He would not travel around in Judea because the leaders of the Jews wanted to kill him._
 

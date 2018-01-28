@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rom](../rom) 2
+title: [Rom](/new-testament/rom) 2
 ---
 
-# [Rom](../rom) 2
+# [Rom](/new-testament/rom) 2
 
 [New Testament](/new-testament)
 
 
-[prev](rom-1.html)
+[prev](/new-testament/rom/rom-1.html)
 
 
-[next](rom-3.html)
+[next](/new-testament/rom/rom-3.html)
 
 1 _Do you judge another people? You your-selves have done wrong things. So when you judge others, you judge yourselves, because you do the same things. You judge them and yet you do the same things._
 

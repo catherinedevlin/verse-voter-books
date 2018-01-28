@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Heb](../heb) 5
+title: [Heb](/new-testament/heb) 5
 ---
 
-# [Heb](../heb) 5
+# [Heb](/new-testament/heb) 5
 
 [New Testament](/new-testament)
 
 
-[prev](heb-4.html)
+[prev](/new-testament/heb/heb-4.html)
 
 
-[next](heb-6.html)
+[next](/new-testament/heb/heb-6.html)
 
 1 _Every high priest is chosen from among men. His work is to stand before God for people.  He brings gifts and makes sacrifices to God for the wrong things people have done._
 

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 14
+title: [Rev](/new-testament/rev) 14
 ---
 
-# [Rev](../rev) 14
+# [Rev](/new-testament/rev) 14
 
 [New Testament](/new-testament)
 
 
-[prev](rev-13.html)
+[prev](/new-testament/rev/rev-13.html)
 
 
-[next](rev-15.html)
+[next](/new-testament/rev/rev-15.html)
 
 1 _The song of the 144,000 Then I looked and saw the Lamb standing on a hill called Zion.  With him were one hundred and forty-four thousand people. They had his name and the name of his Father written on their foreheads._
 

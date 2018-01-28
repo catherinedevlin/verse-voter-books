@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [2Cor](../2cor) 5
+title: [2Cor](/new-testament/2cor) 5
 ---
 
-# [2Cor](../2cor) 5
+# [2Cor](/new-testament/2cor) 5
 
 [New Testament](/new-testament)
 
 
-[prev](2cor-4.html)
+[prev](/new-testament/2cor/2cor-4.html)
 
 
-[next](2cor-6.html)
+[next](/new-testament/2cor/2cor-6.html)
 
 1 _Our body is the house in which our spirit lives here on earth. When that house is destroyed, then God will give us another house. That house is not made by mans hand.  But God made it. It will last for ever in heaven._
 

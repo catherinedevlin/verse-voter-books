@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [2Thess](../2thess) 1
+title: [2Thess](/new-testament/2thess) 1
 ---
 
-# [2Thess](../2thess) 1
+# [2Thess](/new-testament/2thess) 1
 
 [New Testament](/new-testament)
 
 
-[next](2thess-2.html)
+[next](/new-testament/2thess/2thess-2.html)
 
 1 _Paul, Silvanus, and Timothy send greetings to the church people in the city of Thessalonica. This church belongs to God our Father and the Lord Jesus Christ._
 

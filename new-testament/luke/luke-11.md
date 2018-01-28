@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 11
+title: [Luke](/new-testament/luke) 11
 ---
 
-# [Luke](../luke) 11
+# [Luke](/new-testament/luke) 11
 
 [New Testament](/new-testament)
 
 
-[prev](luke-10.html)
+[prev](/new-testament/luke/luke-10.html)
 
 
-[next](luke-12.html)
+[next](/new-testament/luke/luke-12.html)
 
 1 _One day Jesus was in a place talking with God. When he had finished, one of his disciples said to him, Lord, teach us to talk with God as John taught his disciples._
 

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Rev](../rev) 1
+title: [Rev](/new-testament/rev) 1
 ---
 
-# [Rev](../rev) 1
+# [Rev](/new-testament/rev) 1
 
 [New Testament](/new-testament)
 
 
-[next](rev-2.html)
+[next](/new-testament/rev/rev-2.html)
 
 1 _God showed these things to Jesus Christ to show to his servants. These are things that must happen soon. Then God sent his angel and showed them to John, his servant._
 

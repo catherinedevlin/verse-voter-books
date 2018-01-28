@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Gal](../gal) 2
+title: [Gal](/new-testament/gal) 2
 ---
 
-# [Gal](../gal) 2
+# [Gal](/new-testament/gal) 2
 
 [New Testament](/new-testament)
 
 
-[prev](gal-1.html)
+[prev](/new-testament/gal/gal-1.html)
 
 
-[next](gal-3.html)
+[next](/new-testament/gal/gal-3.html)
 
 1 _Fourteen years later I went to Jerusalem again. This time I went with Barnabas and I took Titus with me._
 

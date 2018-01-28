@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Jas](../jas) 2
+title: [Jas](/new-testament/jas) 2
 ---
 
-# [Jas](../jas) 2
+# [Jas](/new-testament/jas) 2
 
 [New Testament](/new-testament)
 
 
-[prev](jas-1.html)
+[prev](/new-testament/jas/jas-1.html)
 
 
-[next](jas-3.html)
+[next](/new-testament/jas/jas-3.html)
 
 1 _My brothers, you believe in our Lord, the wonderful Jesus Christ. So you must not think one man is better than another._
 

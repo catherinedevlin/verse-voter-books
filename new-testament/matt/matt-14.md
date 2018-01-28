@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 14
+title: [Matt](/new-testament/matt) 14
 ---
 
-# [Matt](../matt) 14
+# [Matt](/new-testament/matt) 14
 
 [New Testament](/new-testament)
 
 
-[prev](matt-13.html)
+[prev](/new-testament/matt/matt-13.html)
 
 
-[next](matt-15.html)
+[next](/new-testament/matt/matt-15.html)
 
 1 _At this time Herod the ruler heard of Jesus._
 

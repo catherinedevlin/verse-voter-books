@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 3
+title: [Matt](/new-testament/matt) 3
 ---
 
-# [Matt](../matt) 3
+# [Matt](/new-testament/matt) 3
 
 [New Testament](/new-testament)
 
 
-[prev](matt-2.html)
+[prev](/new-testament/matt/matt-2.html)
 
 
-[next](matt-4.html)
+[next](/new-testament/matt/matt-4.html)
 
 [1](https://reddit.com/75o4tq) _After some years had passed, John the Baptizer came and told Gods word in the desert of Judea._
 

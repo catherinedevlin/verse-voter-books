@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rev](../rev) 3
+title: [Rev](/new-testament/rev) 3
 ---
 
-# [Rev](../rev) 3
+# [Rev](/new-testament/rev) 3
 
 [New Testament](/new-testament)
 
 
-[prev](rev-2.html)
+[prev](/new-testament/rev/rev-2.html)
 
 
-[next](rev-4.html)
+[next](/new-testament/rev/rev-4.html)
 
 1 _Write this to the angel of the church people in Sardis: Here are the words of the one who has the seven Spirits of God, and the seven stars. He says, "I know what you do. People say that you are alive, but you are dead._
 

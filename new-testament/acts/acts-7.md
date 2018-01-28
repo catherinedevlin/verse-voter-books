@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 7
+title: [Acts](/new-testament/acts) 7
 ---
 
-# [Acts](../acts) 7
+# [Acts](/new-testament/acts) 7
 
 [New Testament](/new-testament)
 
 
-[prev](acts-6.html)
+[prev](/new-testament/acts/acts-6.html)
 
 
-[next](acts-8.html)
+[next](/new-testament/acts/acts-8.html)
 
 1 _Then the high priest asked, Is this true?_
 

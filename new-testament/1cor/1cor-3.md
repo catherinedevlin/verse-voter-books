@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [1Cor](../1cor) 3
+title: [1Cor](/new-testament/1cor) 3
 ---
 
-# [1Cor](../1cor) 3
+# [1Cor](/new-testament/1cor) 3
 
 [New Testament](/new-testament)
 
 
-[prev](1cor-2.html)
+[prev](/new-testament/1cor/1cor-2.html)
 
 
-[next](1cor-4.html)
+[next](/new-testament/1cor/1cor-4.html)
 
 1 _My brothers, I could not talk to you at first as to people who have the Spirit of God. But I talked to you as people who have the spirit of this world. I talked to you as people who are very new-born, baby Christians._
 

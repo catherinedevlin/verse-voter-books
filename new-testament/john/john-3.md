@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 3
+title: [John](/new-testament/john) 3
 ---
 
-# [John](../john) 3
+# [John](/new-testament/john) 3
 
 [New Testament](/new-testament)
 
 
-[prev](john-2.html)
+[prev](/new-testament/john/john-2.html)
 
 
-[next](john-4.html)
+[next](/new-testament/john/john-4.html)
 
 1 _There was a man named Nicodemus. He was a Pharisee, a ruler and leader of the Jews._
 

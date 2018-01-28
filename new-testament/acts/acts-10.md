@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Acts](../acts) 10
+title: [Acts](/new-testament/acts) 10
 ---
 
-# [Acts](../acts) 10
+# [Acts](/new-testament/acts) 10
 
 [New Testament](/new-testament)
 
 
-[prev](acts-9.html)
+[prev](/new-testament/acts/acts-9.html)
 
 
-[next](acts-11.html)
+[next](/new-testament/acts/acts-11.html)
 
 1 _In Caesarea lived a man named Cornelius. He was a big captain in the army. His soldiers were called the Italian Group._
 

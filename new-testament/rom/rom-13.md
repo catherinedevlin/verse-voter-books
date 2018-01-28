@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Rom](../rom) 13
+title: [Rom](/new-testament/rom) 13
 ---
 
-# [Rom](../rom) 13
+# [Rom](/new-testament/rom) 13
 
 [New Testament](/new-testament)
 
 
-[prev](rom-12.html)
+[prev](/new-testament/rom/rom-12.html)
 
 
-[next](rom-14.html)
+[next](/new-testament/rom/rom-14.html)
 
 1 _Every person must obey the rulers over him. Every ruler has his power from God. And the rulers are put there by God._
 

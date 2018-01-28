@@ -1,14 +1,14 @@
 ---
 layout: page
-title: [Titus](../titus) 3
+title: [Titus](/new-testament/titus) 3
 ---
 
-# [Titus](../titus) 3
+# [Titus](/new-testament/titus) 3
 
 [New Testament](/new-testament)
 
 
-[prev](titus-2.html)
+[prev](/new-testament/titus/titus-2.html)
 
 1 _Tell the people again to obey their rulers and governments, and to do what they tell them to do. Tell them to be ready to do any honest work._
 

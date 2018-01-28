@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [John](../john) 9
+title: [John](/new-testament/john) 9
 ---
 
-# [John](../john) 9
+# [John](/new-testament/john) 9
 
 [New Testament](/new-testament)
 
 
-[prev](john-8.html)
+[prev](/new-testament/john/john-8.html)
 
 
-[next](john-10.html)
+[next](/new-testament/john/john-10.html)
 
 1 _On his way out of the temple Jesus saw a man who had been born blind._
 

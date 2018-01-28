@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Matt](../matt) 11
+title: [Matt](/new-testament/matt) 11
 ---
 
-# [Matt](../matt) 11
+# [Matt](/new-testament/matt) 11
 
 [New Testament](/new-testament)
 
 
-[prev](matt-10.html)
+[prev](/new-testament/matt/matt-10.html)
 
 
-[next](matt-12.html)
+[next](/new-testament/matt/matt-12.html)
 
 1 _When Jesus finished telling his twelve disciples what to do, he left that place. He went to teach and tell Gods word to people in the towns around there._
 

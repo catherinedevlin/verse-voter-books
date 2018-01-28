@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Phil](../phil) 3
+title: [Phil](/new-testament/phil) 3
 ---
 
-# [Phil](../phil) 3
+# [Phil](/new-testament/phil) 3
 
 [New Testament](/new-testament)
 
 
-[prev](phil-2.html)
+[prev](/new-testament/phil/phil-2.html)
 
 
-[next](phil-4.html)
+[next](/new-testament/phil/phil-4.html)
 
 1 _Now, my brothers, I say be glad for what the Lord has done for you. It is not hard for me to write the same things to you over and over. And it is good for you._
 

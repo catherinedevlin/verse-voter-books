@@ -1,17 +1,17 @@
 ---
 layout: page
-title: [Luke](../luke) 17
+title: [Luke](/new-testament/luke) 17
 ---
 
-# [Luke](../luke) 17
+# [Luke](/new-testament/luke) 17
 
 [New Testament](/new-testament)
 
 
-[prev](luke-16.html)
+[prev](/new-testament/luke/luke-16.html)
 
 
-[next](luke-18.html)
+[next](/new-testament/luke/luke-18.html)
 
 1 _Jesus said to his disciples, People will make other people do wrong. But the person who makes another person do wrong will have trouble._
 
