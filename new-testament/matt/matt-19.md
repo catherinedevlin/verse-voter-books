@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [Matt](/new-testament/matt) 19
+title: [Matt](/new-testament/matt.html) 19
 ---
 
-# [Matt](/new-testament/matt) 19
+# [Matt](/new-testament/matt.html) 19
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [prev](/new-testament/matt/matt-18.html)

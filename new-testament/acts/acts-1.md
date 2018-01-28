@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [Acts](/new-testament/acts) 1
+title: [Acts](/new-testament/acts.html) 1
 ---
 
-# [Acts](/new-testament/acts) 1
+# [Acts](/new-testament/acts.html) 1
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [next](/new-testament/acts/acts-2.html)

@@ -6,13 +6,13 @@ title: 1Cor
 # 1Cor
 
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
-[prev: Rom](/new-testament/rom)
+[prev: Rom](/new-testament/rom.html)
 
 
-[next: 2Cor](/new-testament/2cor)
+[next: 2Cor](/new-testament/2cor.html)
 
 - [1](/new-testament/1cor/1cor-1.html)
 - [2](/new-testament/1cor/1cor-2.html)

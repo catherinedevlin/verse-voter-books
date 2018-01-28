@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [Heb](/new-testament/heb) 10
+title: [Heb](/new-testament/heb.html) 10
 ---
 
-# [Heb](/new-testament/heb) 10
+# [Heb](/new-testament/heb.html) 10
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [prev](/new-testament/heb/heb-9.html)

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [Luke](/new-testament/luke) 13
+title: [Luke](/new-testament/luke.html) 13
 ---
 
-# [Luke](/new-testament/luke) 13
+# [Luke](/new-testament/luke.html) 13
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [prev](/new-testament/luke/luke-12.html)

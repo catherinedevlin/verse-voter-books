@@ -6,13 +6,13 @@ title: 2Cor
 # 2Cor
 
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
-[prev: 1Cor](/new-testament/1cor)
+[prev: 1Cor](/new-testament/1cor.html)
 
 
-[next: Gal](/new-testament/gal)
+[next: Gal](/new-testament/gal.html)
 
 - [1](/new-testament/2cor/2cor-1.html)
 - [2](/new-testament/2cor/2cor-2.html)

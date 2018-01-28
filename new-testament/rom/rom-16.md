@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [Rom](/new-testament/rom) 16
+title: [Rom](/new-testament/rom.html) 16
 ---
 
-# [Rom](/new-testament/rom) 16
+# [Rom](/new-testament/rom.html) 16
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [prev](/new-testament/rom/rom-15.html)

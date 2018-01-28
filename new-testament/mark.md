@@ -6,13 +6,13 @@ title: Mark
 # Mark
 
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
-[prev: Matt](/new-testament/matt)
+[prev: Matt](/new-testament/matt.html)
 
 
-[next: Luke](/new-testament/luke)
+[next: Luke](/new-testament/luke.html)
 
 - [1](/new-testament/mark/mark-1.html)
 - [2](/new-testament/mark/mark-2.html)

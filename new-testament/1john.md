@@ -6,13 +6,13 @@ title: 1John
 # 1John
 
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
-[prev: 2Pet](/new-testament/2pet)
+[prev: 2Pet](/new-testament/2pet.html)
 
 
-[next: 2John](/new-testament/2john)
+[next: 2John](/new-testament/2john.html)
 
 - [1](/new-testament/1john/1john-1.html)
 - [2](/new-testament/1john/1john-2.html)

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [Matt](/new-testament/matt) 1
+title: [Matt](/new-testament/matt.html) 1
 ---
 
-# [Matt](/new-testament/matt) 1
+# [Matt](/new-testament/matt.html) 1
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [next](/new-testament/matt/matt-2.html)
@@ -28,7 +28,7 @@ title: [Matt](/new-testament/matt) 1
 
 [23](https://reddit.com/https://redd.it/7tjxmv) _The prophet said, A young woman who has not slept with a man is going to have a baby son. His name will be Emmanuel. That means "God is with us." _
 
-24 _Joseph woke up and did what the angel of the Lord told him to do. He took Mary to be his wife._
+[24](https://reddit.com/https://redd.it/7tk7cm) _Joseph woke up and did what the angel of the Lord told him to do. He took Mary to be his wife._
 
 25 _But he did not make love with her until her first son had been born. He named him Jesus._
 

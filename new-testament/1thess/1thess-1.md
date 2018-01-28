@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [1Thess](/new-testament/1thess) 1
+title: [1Thess](/new-testament/1thess.html) 1
 ---
 
-# [1Thess](/new-testament/1thess) 1
+# [1Thess](/new-testament/1thess.html) 1
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [next](/new-testament/1thess/1thess-2.html)

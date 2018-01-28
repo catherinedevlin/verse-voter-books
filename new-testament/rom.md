@@ -6,13 +6,13 @@ title: Rom
 # Rom
 
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
-[prev: Acts](/new-testament/acts)
+[prev: Acts](/new-testament/acts.html)
 
 
-[next: 1Cor](/new-testament/1cor)
+[next: 1Cor](/new-testament/1cor.html)
 
 - [1](/new-testament/rom/rom-1.html)
 - [2](/new-testament/rom/rom-2.html)

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [1Tim](/new-testament/1tim) 5
+title: [1Tim](/new-testament/1tim.html) 5
 ---
 
-# [1Tim](/new-testament/1tim) 5
+# [1Tim](/new-testament/1tim.html) 5
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [prev](/new-testament/1tim/1tim-4.html)

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [Col](/new-testament/col) 3
+title: [Col](/new-testament/col.html) 3
 ---
 
-# [Col](/new-testament/col) 3
+# [Col](/new-testament/col.html) 3
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [prev](/new-testament/col/col-2.html)

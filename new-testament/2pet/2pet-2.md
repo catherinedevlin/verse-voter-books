@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [2Pet](/new-testament/2pet) 2
+title: [2Pet](/new-testament/2pet.html) 2
 ---
 
-# [2Pet](/new-testament/2pet) 2
+# [2Pet](/new-testament/2pet.html) 2
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [prev](/new-testament/2pet/2pet-1.html)

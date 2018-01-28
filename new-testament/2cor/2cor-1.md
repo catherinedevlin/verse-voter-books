@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [2Cor](/new-testament/2cor) 1
+title: [2Cor](/new-testament/2cor.html) 1
 ---
 
-# [2Cor](/new-testament/2cor) 1
+# [2Cor](/new-testament/2cor.html) 1
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [next](/new-testament/2cor/2cor-2.html)

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [3John](/new-testament/3john) 1
+title: [3John](/new-testament/3john.html) 1
 ---
 
-# [3John](/new-testament/3john) 1
+# [3John](/new-testament/3john.html) 1
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 1 _From the leader of the church people. I send greetings to my dear Gaius. I love you because you have Christ._
 

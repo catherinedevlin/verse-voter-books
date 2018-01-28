@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [Mark](/new-testament/mark) 6
+title: [Mark](/new-testament/mark.html) 6
 ---
 
-# [Mark](/new-testament/mark) 6
+# [Mark](/new-testament/mark.html) 6
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [prev](/new-testament/mark/mark-5.html)

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [John](/new-testament/john) 4
+title: [John](/new-testament/john.html) 4
 ---
 
-# [John](/new-testament/john) 4
+# [John](/new-testament/john.html) 4
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [prev](/new-testament/john/john-3.html)

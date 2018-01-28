@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [Phlm](/new-testament/phlm) 1
+title: [Phlm](/new-testament/phlm.html) 1
 ---
 
-# [Phlm](/new-testament/phlm) 1
+# [Phlm](/new-testament/phlm.html) 1
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 1 _I am Paul. I am in prison because I belong to Christ Jesus. Our brother Timothy and I send greetings to you, Philemon. We love you very much. And you work with us._
 

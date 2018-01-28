@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [Titus](/new-testament/titus) 3
+title: [Titus](/new-testament/titus.html) 3
 ---
 
-# [Titus](/new-testament/titus) 3
+# [Titus](/new-testament/titus.html) 3
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [prev](/new-testament/titus/titus-2.html)

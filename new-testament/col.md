@@ -6,13 +6,13 @@ title: Col
 # Col
 
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
-[prev: Phil](/new-testament/phil)
+[prev: Phil](/new-testament/phil.html)
 
 
-[next: 1Thess](/new-testament/1thess)
+[next: 1Thess](/new-testament/1thess.html)
 
 - [1](/new-testament/col/col-1.html)
 - [2](/new-testament/col/col-2.html)

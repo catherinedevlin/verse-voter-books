@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [Jude](/new-testament/jude) 1
+title: [Jude](/new-testament/jude.html) 1
 ---
 
-# [Jude](/new-testament/jude) 1
+# [Jude](/new-testament/jude.html) 1
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 1 _I am Jude. I am a servant of Jesus Christ and I am a brother of James. I send greetings to you whom God the Father has called. He has loved you and kept you safe for Jesus Christ._
 

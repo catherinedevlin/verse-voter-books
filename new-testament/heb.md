@@ -6,13 +6,13 @@ title: Heb
 # Heb
 
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
-[prev: Phlm](/new-testament/phlm)
+[prev: Phlm](/new-testament/phlm.html)
 
 
-[next: Jas](/new-testament/jas)
+[next: Jas](/new-testament/jas.html)
 
 - [1](/new-testament/heb/heb-1.html)
 - [2](/new-testament/heb/heb-2.html)

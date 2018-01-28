@@ -6,10 +6,10 @@ title: Matt
 # Matt
 
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
-[next: Mark](/new-testament/mark)
+[next: Mark](/new-testament/mark.html)
 
 - [1](/new-testament/matt/matt-1.html)
 - [2](/new-testament/matt/matt-2.html)

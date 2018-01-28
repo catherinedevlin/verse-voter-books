@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [Jas](/new-testament/jas) 2
+title: [Jas](/new-testament/jas.html) 2
 ---
 
-# [Jas](/new-testament/jas) 2
+# [Jas](/new-testament/jas.html) 2
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [prev](/new-testament/jas/jas-1.html)

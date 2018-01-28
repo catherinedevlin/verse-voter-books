@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [Phil](/new-testament/phil) 2
+title: [Phil](/new-testament/phil.html) 2
 ---
 
-# [Phil](/new-testament/phil) 2
+# [Phil](/new-testament/phil.html) 2
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [prev](/new-testament/phil/phil-1.html)

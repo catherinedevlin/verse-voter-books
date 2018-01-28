@@ -6,13 +6,13 @@ title: Luke
 # Luke
 
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
-[prev: Mark](/new-testament/mark)
+[prev: Mark](/new-testament/mark.html)
 
 
-[next: John](/new-testament/john)
+[next: John](/new-testament/john.html)
 
 - [1](/new-testament/luke/luke-1.html)
 - [2](/new-testament/luke/luke-2.html)

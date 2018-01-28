@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [Rev](/new-testament/rev) 18
+title: [Rev](/new-testament/rev.html) 18
 ---
 
-# [Rev](/new-testament/rev) 18
+# [Rev](/new-testament/rev.html) 18
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [prev](/new-testament/rev/rev-17.html)

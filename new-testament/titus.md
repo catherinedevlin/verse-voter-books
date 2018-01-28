@@ -6,13 +6,13 @@ title: Titus
 # Titus
 
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
-[prev: 2Tim](/new-testament/2tim)
+[prev: 2Tim](/new-testament/2tim.html)
 
 
-[next: Phlm](/new-testament/phlm)
+[next: Phlm](/new-testament/phlm.html)
 
 - [1](/new-testament/titus/titus-1.html)
 - [2](/new-testament/titus/titus-2.html)

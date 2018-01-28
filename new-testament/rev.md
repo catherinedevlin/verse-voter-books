@@ -6,10 +6,10 @@ title: Rev
 # Rev
 
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
-[prev: Jude](/new-testament/jude)
+[prev: Jude](/new-testament/jude.html)
 
 - [1](/new-testament/rev/rev-1.html)
 - [2](/new-testament/rev/rev-2.html)

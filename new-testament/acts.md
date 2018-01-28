@@ -6,13 +6,13 @@ title: Acts
 # Acts
 
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
-[prev: John](/new-testament/john)
+[prev: John](/new-testament/john.html)
 
 
-[next: Rom](/new-testament/rom)
+[next: Rom](/new-testament/rom.html)
 
 - [1](/new-testament/acts/acts-1.html)
 - [2](/new-testament/acts/acts-2.html)

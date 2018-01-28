@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [2John](/new-testament/2john) 1
+title: [2John](/new-testament/2john.html) 1
 ---
 
-# [2John](/new-testament/2john) 1
+# [2John](/new-testament/2john.html) 1
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 1 _From the leader of the church people. I send greetings to the lady whom God has chosen,  and to her children. I love you all because you have the truth about Christ. I am not the only one who loves you. All those who know the truth, love you also._
 

@@ -6,13 +6,13 @@ title: John
 # John
 
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
-[prev: Luke](/new-testament/luke)
+[prev: Luke](/new-testament/luke.html)
 
 
-[next: Acts](/new-testament/acts)
+[next: Acts](/new-testament/acts.html)
 
 - [1](/new-testament/john/john-1.html)
 - [2](/new-testament/john/john-2.html)

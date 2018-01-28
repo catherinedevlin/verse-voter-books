@@ -1,11 +1,11 @@
 ---
 layout: page
-title: [Eph](/new-testament/eph) 6
+title: [Eph](/new-testament/eph.html) 6
 ---
 
-# [Eph](/new-testament/eph) 6
+# [Eph](/new-testament/eph.html) 6
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
 [prev](/new-testament/eph/eph-5.html)

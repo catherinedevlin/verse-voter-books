@@ -6,13 +6,13 @@ title: 1Tim
 # 1Tim
 
 
-[New Testament](/new-testament)
+[New Testament](/new-testament.html)
 
 
-[prev: 2Thess](/new-testament/2thess)
+[prev: 2Thess](/new-testament/2thess.html)
 
 
-[next: 2Tim](/new-testament/2tim)
+[next: 2Tim](/new-testament/2tim.html)
 
 - [1](/new-testament/1tim/1tim-1.html)
 - [2](/new-testament/1tim/1tim-2.html)
